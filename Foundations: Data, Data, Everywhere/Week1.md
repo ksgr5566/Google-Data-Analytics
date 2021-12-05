@@ -4,7 +4,13 @@ Data is a collection of facts that can be used to draw conclusions, make predict
 ### Data Analysis 
 Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
 
-The six steps of the data analysis process are: **ask, prepare, process, analyze, share, and act**. 
+The six steps of the data analysis process are: 
+- **Ask** questions and define the problem.
+- **Prepare** data by collecting and storing the information.
+- **Process** data by cleaning and checking the information.
+- **Analyze** data to find patterns, relationships, and trends.
+- **Share** data with your audience.
+- **Act** on the data and use the analysis results.
 
 <br />
 
@@ -62,3 +68,5 @@ Using facts to guide business strategy.
 The first step in data-driven decision-making is figuring out the business need.
 
 Data alone will never be as powerful as data combined with human experience, observation, and sometimes even intuition. To get the most out of data-driven decision-making, it's important to include insights from people who are familiar with the business problem. These people are called subject matter experts, and they have the ability to look at the results of data analysis and identify any inconsistencies, make sense of gray areas, and eventually validate choices being made.
+
+Blending data with business knowledge, plus maybe a touch of gut instinct, will be a common part of your process as a junior data analyst. The key is figuring out the exact mix for each particular project. A lot of times, it will depend on the goals of your analysis.
