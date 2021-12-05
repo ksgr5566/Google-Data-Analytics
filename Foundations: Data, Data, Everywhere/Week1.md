@@ -29,3 +29,27 @@ The excellence of an analyst is speed. How quickly can you surf through vast amo
 
 ---
 
+<br />
+
+### Data Ecosystem
+An ecosystem is a group of elements that interact with one another.
+
+Data ecosystems are made up of various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data. These elements include hardware and software tools, and the people who use them.
+
+For example, you could tap into your retail store's database, which is an ecosystem filled with customer names, addresses, previous purchases, and customer reviews.
+
+<br />
+
+### Data Science
+Data science is defined as creating new ways of modeling and understanding the unknown by using raw data.
+
+Data **scientists** create new questions using data, while **analysts** find answers to existing questions by creating insights from data sources.
+
+<br />
+
+### Data Analytics
+Data analytics in the simplest terms is the science of data.
+
+It's a very broad concept that encompasses everything from the job of managing and using data to the tools and methods that data workers use each and every day.
+
+Data, data analysis and the data ecosystem, all fit under the data analytics umbrella.
