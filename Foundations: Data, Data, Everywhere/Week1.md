@@ -69,7 +69,15 @@ The first step in data-driven decision-making is figuring out the business need.
 
 Data alone will never be as powerful as data combined with human experience, observation, and sometimes even intuition. To get the most out of data-driven decision-making, it's important to include insights from people who are familiar with the business problem. These people are called subject matter experts, and they have the ability to look at the results of data analysis and identify any inconsistencies, make sense of gray areas, and eventually validate choices being made.
 
+
+<br />
+
+### Gut Instinct
+Gut instinct is an intuitive understanding of something with little or no explanation. This isn’t always something conscious; we often pick up on signals without even realizing. You just have a “feeling” it’s right.
+
 Blending data with business knowledge, plus maybe a touch of gut instinct, will be a common part of your process as a junior data analyst. The key is figuring out the exact mix for each particular project. A lot of times, it will depend on the goals of your analysis.
+
+At the heart of data-driven decision-making is data, so analysts are most effective when they ensure that facts are driving strategy.
 
 <br />
 
