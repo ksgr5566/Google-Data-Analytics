@@ -1,3 +1,3 @@
 # Google-Data-Analytics Certification
 
-Notes for the course on Data Analytics course by Google in Coursera. Course [link](https://www.coursera.org/programs/coursera-response-program-for-shiv-nadar-university-itdhk?currentTab=MY_COURSES&productId=kr43OcbTEeqeNBKhfgCLyw&productType=s12n&showMiniModal=true). 
+Notes for the course on Data Analytics course by Google in Coursera. Course [link](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite-paid-essence-in-dr-q42021-sem-bkws-exa-txt-course-1-analytics-certificate-data_analytics). 
