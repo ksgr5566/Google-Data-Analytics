@@ -73,7 +73,7 @@ Blending data with business knowledge, plus maybe a touch of gut instinct, will 
 
 <br />
 
-#### Data Analysis Life Cycle
+### Data Analysis Life Cycle
 The process of going from data to decision.
 
 Data goes through several phases as it gets created, consumed, tested, processed, and reused. With a life cycle model, all key team members can drive success by planning work both up front and at the end of the data analysis process. While the data analysis life cycle is well known among experts, there isn't a single defined structure of those phases. There might not be one single architecture that’s uniformly followed by every data analysis expert, but there are some shared fundamentals in every data analysis process.
