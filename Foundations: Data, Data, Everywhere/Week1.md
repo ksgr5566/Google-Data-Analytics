@@ -4,7 +4,7 @@ Data is a collection of facts that can be used to draw conclusions, make predict
 ### Data Analysis 
 Data analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
 
-The six steps of the data analysis process are: 
+The six steps of the data analysis process are([data analysis life cycle]()): 
 - **Ask** questions and define the problem.
 - **Prepare** data by collecting and storing the information.
 - **Process** data by cleaning and checking the information.
@@ -70,3 +70,10 @@ The first step in data-driven decision-making is figuring out the business need.
 Data alone will never be as powerful as data combined with human experience, observation, and sometimes even intuition. To get the most out of data-driven decision-making, it's important to include insights from people who are familiar with the business problem. These people are called subject matter experts, and they have the ability to look at the results of data analysis and identify any inconsistencies, make sense of gray areas, and eventually validate choices being made.
 
 Blending data with business knowledge, plus maybe a touch of gut instinct, will be a common part of your process as a junior data analyst. The key is figuring out the exact mix for each particular project. A lot of times, it will depend on the goals of your analysis.
+
+<br />
+
+#### Data Analysis Life Cycle
+The process of going from data to decision.
+
+Data goes through several phases as it gets created, consumed, tested, processed, and reused. With a life cycle model, all key team members can drive success by planning work both up front and at the end of the data analysis process. While the data analysis life cycle is well known among experts, there isn't a single defined structure of those phases. There might not be one single architecture that’s uniformly followed by every data analysis expert, but there are some shared fundamentals in every data analysis process.
