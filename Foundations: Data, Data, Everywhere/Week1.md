@@ -53,3 +53,12 @@ Data analytics in the simplest terms is the science of data.
 It's a very broad concept that encompasses everything from the job of managing and using data to the tools and methods that data workers use each and every day.
 
 Data, data analysis and the data ecosystem, all fit under the data analytics umbrella.
+
+<br />
+
+### Data-driven Decision-making
+Using facts to guide business strategy.
+
+The first step in data-driven decision-making is figuring out the business need.
+
+Data alone will never be as powerful as data combined with human experience, observation, and sometimes even intuition. To get the most out of data-driven decision-making, it's important to include insights from people who are familiar with the business problem. These people are called subject matter experts, and they have the ability to look at the results of data analysis and identify any inconsistencies, make sense of gray areas, and eventually validate choices being made.
