@@ -15,6 +15,8 @@ Five essential aspects to analytical skills:
 5. Data strategy
    - Data strategy is the management of the people, processes, and tools used in data analysis.
 
+Data-driven decision-making involves curiosity, understanding context, having a technical mindset, data design, and data strategy.
+
 <br />
 
 ### Analytical Thinking
