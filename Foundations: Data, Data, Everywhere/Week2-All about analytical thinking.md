@@ -74,6 +74,11 @@ This is a great way to think about what information or procedure might be missin
 
 <br />
 
+#### Quartile
+A quartile divides data points into four equal parts or quarters. 
+
+<br />
+
 ---
 
 [Glossary](https://docs.google.com/document/d/1NPfVEPe0X2l3d2v-XIaevT0I5OU5J4EYMGeetijKhAM/template/preview?resourcekey=0-bLCbJQfNZJ70tiFfxT2VXg)
