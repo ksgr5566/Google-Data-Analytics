@@ -40,9 +40,9 @@ Five key aspects to analytical thinking:
 
 The more ways you can think, the easier it is to think outside the box and come up with fresh ideas.
 
-You need to think critically to find out the right questions to ask.
+You need to think **critically** to find out the right questions to ask.
 
-You also need to think creatively to get new and unexpected answers.
+You also need to think **creatively** to get new and unexpected answers.
 
 ---
 
