@@ -7,6 +7,7 @@ Five essential aspects to analytical skills:
 2. Understanding context
    - Context is the condition in which something exists or happens. This can be a structure or an environment.
    - Grouping things into categories.
+   - Understanding where information fits into the “big picture”
 3. Having technical mindset
    - The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
 4. Data design
