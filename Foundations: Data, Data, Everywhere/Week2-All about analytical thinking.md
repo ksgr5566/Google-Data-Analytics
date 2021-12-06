@@ -33,3 +33,38 @@ Five key aspects to analytical thinking:
 5. Big-picture and detail-oriented thinking.
    - Being able to see the big picture as well as the details.
    - Detail-oriented thinking is all about figuring out all of the aspects that will help you execute a plan.
+
+<br />
+
+---
+
+The more ways you can think, the easier it is to think outside the box and come up with fresh ideas.
+
+You need to think critically to find out the right questions to ask.
+
+You also need to think creatively to get new and unexpected answers.
+
+---
+
+<br />
+
+### Root cause (What is the root cause of a problem?)
+A root cause is the reason why a problem occurs.
+If we can identify and get rid of a root cause, we can prevent that problem from happening again.
+
+#### 5 whys
+In the Five Whys you ask "why" five times to reveal the root cause. The fifth and final answer should give you some useful and sometimes surprising insights.
+
+The Five Whys process is used to reveal a root cause of a problem through the answer to the fifth question.
+
+<br />
+
+### Gap analysis (Where are the gaps in our process?)
+Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future.
+
+The general approach to gap analysis is understanding where you are now compared to where you want to be. Then you can identify the gaps that exist between the current and future state and determine how to bridge them.
+
+<br />
+
+### What did we not consider before?
+This is a great way to think about what information or procedure might be missing from a process, so you can identify ways to make better decisions and strategies moving forward.
