@@ -29,7 +29,7 @@ Five key aspects to analytical thinking:
 3. Problem-orientation 
    - Data analysts use a problem- oriented approach in order to identify, describe, and solve problems. It's all about keeping the problem top of mind throughout the entire project.
 4. Correlation 
-   - Being able to identify a correlation between two or more pieces of data.
+   - Being able to identify a relationship between two or more pieces of data.
    - Correlation does not equal causation. In other words, just because two pieces of data are both trending in the same direction, that doesn't necessarily mean they are all related.
 5. Big-picture and detail-oriented thinking.
    - Being able to see the big picture as well as the details.
