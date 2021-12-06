@@ -67,5 +67,5 @@ The general approach to gap analysis is understanding where you are now compared
 
 <br />
 
-### What did we not consider before?
+### (What did we not consider before?)
 This is a great way to think about what information or procedure might be missing from a process, so you can identify ways to make better decisions and strategies moving forward.
