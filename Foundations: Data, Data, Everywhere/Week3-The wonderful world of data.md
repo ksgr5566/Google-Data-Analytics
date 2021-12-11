@@ -24,3 +24,43 @@ They are people who have invested time and resources into a project and are inte
 
 ---
 
+### Data analyst tools
+
+#### Spreadsheet
+A spreadsheet is a digital worksheet. It stores, organizes, and sorts data. This is important because the usefulness of your data depends on how well it's structured. When you put your data into a spreadsheet, you can see patterns, group information and easily find the information you need. Some popular spreadsheets are ***Microsoft Excel*** and ***Google Sheets***. Spreadsheets also have some really useful features called **formulas** and **functions**.
+- A **formula** is a set of instructions that performs a specific calculation using the data in a spreadsheet.
+- A **function** is a preset command that automatically performs a specific process or task using the data in a spreadsheet.
+
+Spreadsheets structure data in a meaningful way by letting you:
+- Collect, store, organize, and sort information
+- Identify patterns and piece the data together in a way that works for each specific data project
+- Create excellent data visualizations, like graphs and charts. 
+
+
+#### Query language
+A query language is a computer programming language that allows you to retrieve and manipulate data from a database.
+
+SQL is a language that lets data analysts communicate with a database. A database is a collection of data stored in a computer system. With SQL, data analysts can access the data they need by making a query. Some popular Structured Query Language (SQL) programs include MySQL, Microsoft SQL Server, and BigQuery.
+
+Query languages:
+- Allow analysts to isolate specific information from a database(s)
+- Make it easier for you to learn and understand the requests made to databases
+- Allow analysts to select, create, add, or download data from a database for analysis
+
+
+#### Data visualization
+Data visualization is the graphical representation of information. Some examples include graphs, maps, and tables. They help data analysts communicate their insights to others, in an effective and compelling way. Some popular visualization tools are ***Tableau*** and ***Looker***.
+
+These tools:
+- Turn complex numbers into a story that people can understand 
+- Help stakeholders come up with conclusions that lead to informed decisions and effective business strategies  
+- Have multiple features:
+  - Tableau's simple drag-and-drop feature lets users create interactive graphs in dashboards and worksheets. 
+  - Looker communicates directly with a database, allowing you to connect your data right to the visual tool you choose.
+
+<br />
+
+A career as a data analyst also involves using programming languages, like R and Python, which are used a lot for statistical analysis, visualization, and other data analysis.
+
+                 
+
