@@ -4,7 +4,6 @@ The entire period of time that data exists in the system.
 Six stages of data life cycle:
 1. **Plan**: During planning, a business decides what kind of data it needs, how it will be managed throughout its life cycle, who will be responsible for it, and the optimal outcomes.
 2. **Capture**: This is where data is collected from a variety of different sources and brought into the organization. 
-A **database** is a collection of data stored in a computer system.
 3. **Manage**: How we care for our data, how and where it's stored, the tools used to keep it safe and secure, and the actions taken to make sure that it's maintained properly.
 4. **Analyze**: In this phase, the data is used to solve problems, make great decisions, and support business goals. A data analyst might use formulas to perform calculations, create a report from the data, or use spreadsheets to aggregate data.
 5. **Archive**: Keep relevant data stored for long-term and future reference.
@@ -40,7 +39,7 @@ Spreadsheets structure data in a meaningful way by letting you:
 #### Query language
 A query language is a computer programming language that allows you to retrieve and manipulate data from a database.
 
-SQL is a language that lets data analysts communicate with a database. A database is a collection of data stored in a computer system. With SQL, data analysts can access the data they need by making a query. Some popular Structured Query Language (SQL) programs include MySQL, Microsoft SQL Server, and BigQuery.
+SQL is a language that lets data analysts communicate with a database. A **database** is a collection of data stored in a computer system. With SQL, data analysts can access the data they need by making a query. Some popular Structured Query Language (SQL) programs include ***MySQL***, ***Microsoft SQL Server***, and ***BigQuery***.
 
 Query languages:
 - Allow analysts to isolate specific information from a database(s)
