@@ -72,4 +72,13 @@ A career as a data analyst also involves using programming languages, like R and
 
 ---
 
+<br />
+
+- What is the relationship between the data life cycle and the data analysis process? How are the two processes similar? How are they different?
+  - The data life cycle involves stages for identifying needs and managing data. Data analysis involves process steps to make meaning from data. 
+  - While the data analysis process will drive your projects and help you reach your business goals, you must understand the life cycle of your data in order to use that process. To analyze your data well, you need to have a thorough understanding of it. Similarly, you can collect all the data you want, but the data is only useful to you if you have a plan for analyzing it.
+
+- What is the relationship between the Ask phase of the data analysis process and the Plan phase of the data life cycle? How are they similar? How are they different?
+  - The Plan and Ask phases both involve planning and asking questions, but they tackle different subjects. The Ask phase in the data analysis process focuses on big-picture strategic thinking about business goals. However, the Plan phase focuses on the fundamentals of the project, such as what data you have access to, what data you need, and where you’re going to get it.
+
 
