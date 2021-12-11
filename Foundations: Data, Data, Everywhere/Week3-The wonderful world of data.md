@@ -6,7 +6,7 @@ Six stages of data life cycle:
 2. **Capture**: This is where data is collected from a variety of different sources and brought into the organization. 
 A **database** is a collection of data stored in a computer system.
 3. **Manage**: How we care for our data, how and where it's stored, the tools used to keep it safe and secure, and the actions taken to make sure that it's maintained properly.
-4. **Analyze**: In this phase, the data is used to solve problems, make great decisions, and support business goals.
+4. **Analyze**: In this phase, the data is used to solve problems, make great decisions, and support business goals. A data analyst might use formulas to perform calculations, create a report from the data, or use spreadsheets to aggregate data.
 5. **Archive**: Keep relevant data stored for long-term and future reference.
 6. **Destroy**: Remove data from storage and delete any shared copies of the data. This is important for protecting a company's private information, as well as private data about its customers.
 
