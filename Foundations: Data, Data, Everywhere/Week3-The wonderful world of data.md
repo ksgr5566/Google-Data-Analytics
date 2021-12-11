@@ -12,3 +12,15 @@ A **database** is a collection of data stored in a computer system.
 
 
 Individual stages in the data life cycle will vary from company to company or by industry or sector. Although data life cycles vary, one data management principle is universal. Govern how data is handled so that it is accurate, secure, and available to meet your organization's needs.
+
+---
+
+#### Stakeholders
+They are people who have invested time and resources into a project and are interested in the outcome.
+
+---
+
+![image](https://user-images.githubusercontent.com/74421758/145674093-4fe29a8b-a65a-4891-ad3a-67e81fdf74ef.png)
+
+---
+
