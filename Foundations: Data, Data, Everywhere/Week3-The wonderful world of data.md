@@ -62,5 +62,14 @@ These tools:
 
 A career as a data analyst also involves using programming languages, like R and Python, which are used a lot for statistical analysis, visualization, and other data analysis.
 
-                 
+---
+
+![image](https://user-images.githubusercontent.com/74421758/145676919-5b380b0a-bd8e-483b-8b99-856a21d9f75d.png)
+
+---
+
+[Glossary](https://docs.google.com/document/d/1HlHJkeCHI2_-dXYhZxacyFpsmFGt49HehhYaZgx-05M/template/preview?resourcekey=0-CX2FbmmO0dgLoD3O0kp1Tw)
+
+---
+
 
