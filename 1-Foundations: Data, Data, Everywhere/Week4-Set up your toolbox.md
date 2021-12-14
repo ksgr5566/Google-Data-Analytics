@@ -71,3 +71,8 @@ Structured Query Language (or SQL, often pronounced “sequel”) enables data a
   - **Programming language (R with RStudio)**: As with Tableau, you can create dashboard-style data visualizations using RStudio. 
   Resources: [RStudio](https://www.rstudio.com/), [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/), [RStudio Visualize Data Primer](https://rstudio.cloud/learn/primers/3).
   
+  ---
+  
+  [Glossary](https://docs.google.com/document/d/1EBGVEVKBWj_uuUZaZ1IYaDfyQWeZXzOcwhWLG5A8mqc/template/preview?resourcekey=0-uEYx121Up84n0Abpn1uQnQ)
+  
+  ---
