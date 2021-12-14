@@ -55,3 +55,7 @@ Structured Query Language (or SQL, often pronounced “sequel”) enables data a
   [SQL Cheat Sheet](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa)
   
   ---
+  
+  ### Data Visualization
+  
+  Data analysts use data visualizations to explain complex data quickly, reinforce data analysis, and create interesting graphs and charts.
