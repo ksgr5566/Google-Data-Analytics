@@ -32,9 +32,26 @@ Structured Query Language (or SQL, often pronounced “sequel”) enables data a
 - A **query** is a request for data or information from a database.
 - SQL follows a unique set of guidelines known as syntax. **Syntax** is the predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement.
 - The syntax of every SQL query is the same:
-  - Use ***SELECT*** to choose the columns you want to return. A comma to separate fields/variables/parameters.
-  - Use ***FROM*** to choose the tables where the columns you want are located. The dataset name is always followed by a dot, and then the table name.
-  - Use ***WHERE*** to filter for certain information. WHERE command uses the connectors/operators, such as OR and NOT statements, to connect conditions.
+  - Use `SELECT` to choose the columns you want to return. A comma to separate fields/variables/parameters.
+  - Use `FROM` to choose the tables where the columns you want are located. The dataset name is always followed by a dot, and then the table name.
+  - Use `WHERE` to filter for certain information. WHERE command uses the connectors/operators, such as OR and NOT statements, to connect conditions.
   - Example:
   
   ![image](https://user-images.githubusercontent.com/74421758/145982325-4c465a0c-3330-49f5-9236-bcb8402dbe6f.png)
+  
+  <br />
+  
+  - The semicolon is a statement terminator, not all SQL databases have adopted or enforce the semicolon, so it’s possible you may come across some SQL statements that aren’t terminated with a semicolon. If a statement works without a semicolon, it’s fine.
+  - The WHERE clause narrows your query so that the database returns only the data with an exact value match or the data that matches a certain condition that you want to satisfy. The `LIKE` clause is very powerful because it allows you to tell the database to look for a certain pattern. The percent sign `%` is used as a wildcard to match one or more characters. Note that in some databases an asterisk `*` is used as the wildcard instead of a percent sign `%`.
+  -  If you replace `SELECT field1` with `SELECT *` , you would be selecting all of the columns in the table instead of the field1 column only.
+  -  Comments are text placed between certain characters, `/*` and `*/`, or after two dashes `--`.
+  -  You can also make it easier on yourself by assigning a new name or alias to the column or table names to make them easier to work with. This is done with a SQL `AS` clause.
+  -  `<>` means "does not equal" in SQL.
+  
+  <br />
+  
+  [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+  
+  [SQL Cheat Sheet](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa)
+  
+  ---
