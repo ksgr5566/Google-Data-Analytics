@@ -24,3 +24,17 @@ A spreadsheet helps you structure data in rows and columns, prepare data for ana
 [Microsoft Excel for Windows Training](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
 
 ---
+
+### Structured Query Language (SQL)
+
+Structured Query Language (or SQL, often pronounced “sequel”) enables data analysts to talk to their databases. SQL is one of the most useful data analyst tools, especially when working with large datasets in tables. It can help you investigate huge databases, track down text (referred to as strings) and numbers, and filter for the exact kind of data you need—much faster than a spreadsheet can. 
+
+- A **query** is a request for data or information from a database.
+- SQL follows a unique set of guidelines known as syntax. **Syntax** is the predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement.
+- The syntax of every SQL query is the same:
+  - Use ***SELECT*** to choose the columns you want to return. A comma to separate fields/variables/parameters.
+  - Use ***FROM*** to choose the tables where the columns you want are located. The dataset name is always followed by a dot, and then the table name.
+  - Use ***WHERE*** to filter for certain information. WHERE command uses the connectors/operators, such as OR and NOT statements, to connect conditions.
+  - Example:
+  
+  ![image](https://user-images.githubusercontent.com/74421758/145982325-4c465a0c-3330-49f5-9236-bcb8402dbe6f.png)
