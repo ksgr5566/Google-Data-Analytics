@@ -13,7 +13,7 @@
 
 <br />
 
-A spreadsheet helps you structure data in rows and columns, prepare data for analysis, and create custom data visualizations. To better analyze your data, you clean up your chart to make it more visually appealing and to clarify what data means by making your chart more descriptive. To do that, it’s important to add chart titles and axis titles.
+A spreadsheet helps you structure data in rows and columns, prepare data for analysis, and create custom data visualizations. The chart editor enables data analysts to choose the type of chart you're making and customize its appearance. To better analyze your data, clean up your chart to make it more visually appealing and to clarify what data means by making your chart more descriptive. To do that, it’s important to add chart titles and axis titles.
 
 <br />
 
