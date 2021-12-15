@@ -67,7 +67,7 @@ Using facts to guide business strategy.
 
 The first step in data-driven decision-making is figuring out the business need.
 
-Data alone will never be as powerful as data combined with human experience, observation, and sometimes even intuition. To get the most out of data-driven decision-making, it's important to include insights from people who are familiar with the business problem. These people are called subject matter experts, and they have the ability to look at the results of data analysis and identify any inconsistencies, make sense of gray areas, and eventually validate choices being made.
+Data alone will never be as powerful as data combined with human experience, observation, and sometimes even intuition. To get the most out of data-driven decision-making, it's important to include insights from people who are familiar with the business problem. These people are called **subject matter experts**, and they have the ability to look at the results of data analysis and identify any inconsistencies, make sense of gray areas, and eventually validate choices being made.
 
 
 <br />
