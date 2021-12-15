@@ -42,7 +42,6 @@ Data analysts, data scientists, and data specialists sound very similar but focu
 The role of data specialist(concentrates on in-depth knowledge of databases) is one of many specializations within data analytics. Other specialist roles for data analysts can focus on in-depth knowledge of specific industries.
 
 Other industry-specific specialist positions that you might come across in your data analyst job search include:
-- Business analyst — you would focus on using the data to improve business operations, efficiencies, or the bottom line. As a business analyst, you would likely collaborate with managers, share your data findings, and maybe explain how a small change in the company’s project management system could save the company 3% each quarter.
 - Marketing analyst — analyzes market conditions to assess the potential sales of products and services 
 - HR/payroll analyst — analyzes payroll data for inefficiencies and errors
 - Financial analyst — analyzes financial status by collecting, monitoring, and reviewing data
