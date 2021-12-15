@@ -9,7 +9,7 @@ These questions and problems become the foundation for all kinds of business tas
 
 ---
 
-Data analysts have an important responsibility: making sure that their analyses are fair (ensuring that analysis does not create or reinforce bias requires using processes and systems that are fair and inclusive to everyone). **Fairness** means ensuring that your analysis doesn't create or reinforce bias. It's important to think about fairness from the moment you start collecting data for a business task to the time you present your conclusions to your stakeholders.
+Data analysts have an important responsibility: making sure that their analyses are fair (ensuring that analysis does not create or reinforce bias requires using processes and systems that are fair and inclusive to everyone). **Fairness** means ensuring that your analysis doesn't create or reinforce bias. It's important to think about fairness from the moment you start collecting data for a business task to the time you present your conclusions to your stakeholders. Considering inclusive sample populations, social context, and self-reported data enable fairness in data collection.
 
 #### A case study:
 1. To improve the effectiveness of its teaching staff, the administration of a high school offered the opportunity for all teachers to participate in a workshop. They were not required to attend; instead, the administration encouraged teachers to sign up. Of the 43 teachers on staff, 19 chose to take the workshop. <br />
