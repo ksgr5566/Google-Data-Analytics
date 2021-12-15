@@ -50,4 +50,8 @@ Other industry-specific specialist positions that you might come across in your 
 
 ---
 
+[Glossary](https://docs.google.com/document/d/1kpvyM205cp_PmLz0tFOqusO9_wxGL_E0tDQNWwWhons/template/preview)
+
+---
+
 
