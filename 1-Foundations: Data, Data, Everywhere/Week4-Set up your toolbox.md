@@ -58,7 +58,9 @@ Structured Query Language (or SQL, often pronounced “sequel”) enables data a
   
   ### Data Visualization
   
-  Data analysts use data visualizations to explain complex data quickly, reinforce data analysis, and create interesting graphs and charts.
+  Data analysts use data visualizations to explain complex data quickly, reinforce data analysis, and create interesting graphs and charts. Data visualizations can clearly demonstrate patterns and trends, help stakeholders understand complex data more quickly, and illustrate relationships between data points.
+  
+  Misc: A line chart is effective for tracking trends over time. A pie chart shows how a whole is broken down into parts.
   
   Steps to plan a data visualization:
   1. **Explore the data for patterns**
