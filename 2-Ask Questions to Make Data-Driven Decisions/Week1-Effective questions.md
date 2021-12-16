@@ -119,7 +119,7 @@ Note: Categorizing things involves assigning items to categories; identifying th
 
 Avoid asking:
 
-- **Leading questions**: questions that only have a particular response. Example: "These are the best sandwiches ever, aren't they?" This question doesn't really give you the opportunity to share your own opinion, especially if you happen to disagree and didn't enjoy the sandwich very much. This is called a leading question because it's leading you to answer in a certain way.
+- **Leading questions**: questions that only have a particular response. Leading questions direct the respondent to a particular answer, often because they suggest the answer within the question. Example: "These are the best sandwiches ever, aren't they?" This question doesn't really give you the opportunity to share your own opinion, especially if you happen to disagree and didn't enjoy the sandwich very much. This is called a leading question because it's leading you to answer in a certain way.
 - **Closed-ended questions**: questions that ask for a one-word or brief response only. Example: "Were you satisfied with the customer trial?" This question is closed-ended. That means it can be answered with a yes or no.
 - **Vague questions**: questions that aren’t specific or don’t provide context. Example: "Does the tool work for you?" This question is too vague because there is no context.
 
@@ -131,7 +131,7 @@ The more questions you ask, the more you learn about your data, and the more pow
 
 - **Specific**: Specific questions are simple, significant and focused on a single topic or a few closely related ideas. This helps us collect information that's relevant to what we're investigating. If a question is too general, try to narrow it down by focusing on just one element.
 - **Measurable**: Measurable questions can be quantified and assessed.
-- **Action-oriented**: Action-oriented questions encourage change. For example, rather than asking, "how can we get customers to recycle our product packaging?" You could ask, "what design features will make our packaging easier to recycle?" This brings you answers you can act on.
+- **Action-oriented**: Action-oriented questions encourage change. For example, rather than asking, "how can we get customers to recycle our product packaging?" You could ask, "what design features will make our packaging easier to recycle?" This brings you answers you can act on. The questions that are action-oriented are more likely to result in specific answers that can be acted on to lead to change. 
 - **Relevant**: Relevant questions matter, are important and have significance to the problem you're trying to solve.
 - **Time-bound**: Time-bound questions specify the time to be studied. This limits the range of possibilities and enables the data analyst to focus on relevant data.
 
