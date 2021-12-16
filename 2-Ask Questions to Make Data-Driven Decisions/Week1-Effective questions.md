@@ -116,6 +116,30 @@ Six common types of problems that data analysts work with:
 Note: Categorizing things involves assigning items to categories; identifying themes takes those categories a step further by grouping them into broader themes.
 
 ---
+
+Avoid asking:
+
+- **Leading questions**: questions that only have a particular response. Example: "These are the best sandwiches ever, aren't they?" This question doesn't really give you the opportunity to share your own opinion, especially if you happen to disagree and didn't enjoy the sandwich very much. This is called a leading question because it's leading you to answer in a certain way.
+- **Closed-ended questions**: questions that ask for a one-word or brief response only. Example: "Were you satisfied with the customer trial?" This question is closed-ended. That means it can be answered with a yes or no.
+- **Vague questions**: questions that aren’t specific or don’t provide context. Example: "Does the tool work for you?" This question is too vague because there is no context.
+
+<br />
+
+Effective questions follow the SMART methodology.
+
+![image](https://user-images.githubusercontent.com/74421758/146340129-eee46617-0016-4208-927a-10f57fa8776b.png)
+
+- **Specific**: Specific questions are simple, significant and focused on a single topic or a few closely related ideas. This helps us collect information that's relevant to what we're investigating. If a question is too general, try to narrow it down by focusing on just one element.
+- **Measurable**: Measurable questions can be quantified and assessed.
+- **Action-oriented**: Action-oriented questions encourage change. For example, rather than asking, "how can we get customers to recycle our product packaging?" You could ask, "what design features will make our packaging easier to recycle?" This brings you answers you can act on.
+- **Relevant**: Relevant questions matter, are important and have significance to the problem you're trying to solve.
+- **Time-bound**: Time-bound questions specify the time to be studied. This limits the range of possibilities and enables the data analyst to focus on relevant data.
+
+There's something else that's very important to keep in mind when crafting questions, fairness. Fairness means ensuring that your questions don't create or reinforce bias. Fairness also means crafting questions that make sense to everyone. It's important for questions to be clear and have a straightforward wording that anyone can easily understand.
+
+Questions should be open-ended. This is the best way to get responses that will help you accurately qualify or disqualify potential solutions to your specific problem.
+
+
   
   
 
