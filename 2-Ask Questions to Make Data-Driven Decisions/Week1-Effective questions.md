@@ -112,6 +112,8 @@ Six common types of problems that data analysts work with:
 - **Identifying themes**: It takes categorization as a step further by grouping information into broader concepts.
 - **Discovering connections**: Finding similar challenges faced by different entities, and then combining data and insights to address them.
 - **Finding patterns**: Using historical data to understand what happened in the past and is therefore likely to happen again.
+
+Note: Categorizing things involves assigning items to categories; identifying themes takes those categories a step further by grouping them into broader themes.
   
   
 
