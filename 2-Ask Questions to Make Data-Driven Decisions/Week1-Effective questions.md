@@ -125,7 +125,7 @@ Avoid asking:
 
 <br />
 
-Effective questions follow the SMART methodology.
+The more questions you ask, the more you learn about your data, and the more powerful your insights will be. Asking thorough and specific questions means clarifying details until you get to concrete requirements. With clear requirements and goals, it’s much easier to plan and execute a successful data analysis project and avoid time-consuming problems down the road. Effective questions follow the SMART methodology:
 
 ![image](https://user-images.githubusercontent.com/74421758/146340129-eee46617-0016-4208-927a-10f57fa8776b.png)
 
@@ -135,9 +135,15 @@ Effective questions follow the SMART methodology.
 - **Relevant**: Relevant questions matter, are important and have significance to the problem you're trying to solve.
 - **Time-bound**: Time-bound questions specify the time to be studied. This limits the range of possibilities and enables the data analyst to focus on relevant data.
 
-There's something else that's very important to keep in mind when crafting questions, fairness. Fairness means ensuring that your questions don't create or reinforce bias. Fairness also means crafting questions that make sense to everyone. It's important for questions to be clear and have a straightforward wording that anyone can easily understand.
+There's something else that's very important to keep in mind when crafting questions, fairness. Fairness means ensuring that your questions don't create or reinforce bias. Fairness also means crafting questions that make sense to everyone. It's important for questions to be clear and have a straightforward wording that anyone can easily understand. Unfair questions also can make your job as a data analyst more difficult. They lead to unreliable feedback and missed opportunities to gain some truly valuable insights.
 
 Questions should be open-ended. This is the best way to get responses that will help you accurately qualify or disqualify potential solutions to your specific problem.
+
+---
+
+[Glossary](https://docs.google.com/document/d/1QX_1-xlHe4Vd2Ods-a2p21XeY5ODBo2KP-L_eOlI-A4/template/preview?resourcekey=0-dSnwNjRO8Ycn5OHib4C3Dw)
+
+---
 
 
   
