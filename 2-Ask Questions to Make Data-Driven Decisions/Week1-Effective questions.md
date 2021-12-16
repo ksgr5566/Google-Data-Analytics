@@ -135,7 +135,7 @@ The more questions you ask, the more you learn about your data, and the more pow
 - **Relevant**: Relevant questions matter, are important and have significance to the problem you're trying to solve.
 - **Time-bound**: Time-bound questions specify the time to be studied. This limits the range of possibilities and enables the data analyst to focus on relevant data.
 
-There's something else that's very important to keep in mind when crafting questions, fairness. Fairness means ensuring that your questions don't create or reinforce bias. Fairness also means crafting questions that make sense to everyone. It's important for questions to be clear and have a straightforward wording that anyone can easily understand. Unfair questions also can make your job as a data analyst more difficult. They lead to unreliable feedback and missed opportunities to gain some truly valuable insights.
+There's something else that's very important to keep in mind when crafting questions, fairness. Fairness means ensuring that your questions don't create or reinforce bias. Fairness also means crafting questions that make sense to everyone. It's important for questions to be clear and have a straightforward wording that anyone can easily understand. Unfair questions also can make your job as a data analyst more difficult. They lead to unreliable feedback and missed opportunities to gain some truly valuable insights. A common example of an unfair question is one that makes assumptions. These are questions that assume the answer to the question being asked. 
 
 Questions should be open-ended. This is the best way to get responses that will help you accurately qualify or disqualify potential solutions to your specific problem.
 
