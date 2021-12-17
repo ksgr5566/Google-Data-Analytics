@@ -10,3 +10,20 @@ The goal of all data analysts is to use data to draw accurate conclusions and ma
 
 ---
 
+There are a lot of different kinds of questions that data might help us answer, and these different questions make different kinds of data.
+
+### Quantitative data
+Quantitative data is all about the specific and objective measures of numerical facts. This can often be the *what*, *how many*, and *how often* about a problem. In other words, things you can measure, such as a number, quantity or range.
+
+### Qualitative data
+Qualitative data is a subjective and explanatory measure of a quality or characteristic. Basically, the things that can't be measured with numerical data, like your hair color. Qualitative data is great for helping us answer *why* questions.
+
+With quantitative data, we can see numbers visualized as charts or graphs. Qualitative data can then give us a more high-level understanding of why the numbers are the way they are. It helps us add context to a problem.
+
+![image](https://user-images.githubusercontent.com/74421758/146493906-5d9e60ad-bb05-464e-bb78-b811e02e548f.png)
+
+Data analysts will generally use both types of data in their work. Usually, qualitative data can help analysts better understand their quantitative data by providing a reason or more thorough explanation. In other words, quantitative data generally gives you the what, and qualitative data generally gives you the why.
+
+---
+
+
