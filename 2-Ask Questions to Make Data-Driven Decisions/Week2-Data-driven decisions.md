@@ -59,4 +59,14 @@ A dashboard would be useful for monitoring data as it becomes available. You mig
 
 ---
 
+### Metric 
+A metric is a single, quantifiable type of data that can be used for measurement. Data starts as a collection of raw facts, until we organize them into individual metrics that represent a single type of data. Metrics can also be combined into formulas that you can plug your numerical data into. Data contains a lot of raw details about the problem we're exploring. But we need the right metrics to get the answers we're looking for.
+
+Different industries use all kinds of different metrics. But there's one thing they all have in common: they're all trying to meet a specific goal by measuring data.
+
+### Metric Goal
+A measurable goal set by a company and evaluated using metrics.
+
+---
+
 
