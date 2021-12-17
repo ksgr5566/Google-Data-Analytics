@@ -57,6 +57,8 @@ Cons:
 
 A dashboard would be useful for monitoring data as it becomes available. You might create a Tableau dashboard with interactive graphs that showcase multiple views of the data.
 
+[Designing compelling dashboards](https://d3c33hcgiwev3.cloudfront.net/IfnpXnRlRhi56V50ZVYYow_3a87f3d18e444bdda63014571e0d9ef1_DAC2-Designing-compelling-dashboards.pdf?Expires=1639872000&Signature=jkZQrBDKFAQKg9Cl~uonJ3YgiJYh8QG-y7xKsMSMkaOd-AumFhG~X~PdpihInp-O6Irvn2Q1QtcUQCjTAfCuwOE9tJuhirAroRh3UuWAqliZh7rJgylneeVj1kMvFohDUHLVIxMIeqpH2Jd4sLcvKRxIsIhoZwZYrQScTKBrPLc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
 ---
 
 ### Metric 
