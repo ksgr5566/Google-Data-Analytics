@@ -94,5 +94,32 @@ Big data has *larger, less specific datasets covering a longer period of time*. 
 
 ![image](https://user-images.githubusercontent.com/74421758/146516417-6672f334-7ff6-4dc1-a5d8-79afb65e1c81.png)
 
+Some challenges you might face when working with big data:
+- A lot of organizations deal with data overload and way too much unimportant or irrelevant information. 
+- Important data can be hidden deep down with all of the non-important data, which makes it harder to find and use. This can lead to slower and more inefficient decision-making time frames.
+- The data you need isn’t always easily accessible. 
+- Current technology tools and solutions still struggle to provide measurable and reportable data. This can lead to unfair algorithmic bias. 
+- There are gaps in many big data business solutions.
+
+Some benefits that come with big data:
+- When large amounts of data can be stored and analyzed, it can help companies identify more efficient ways of doing business and save a lot of time and money.
+- Big data helps organizations spot the trends of customer buying patterns and satisfaction levels, which can help them create new products and solutions that will make customers happy.
+- By analyzing big data, businesses get a much better understanding of current market conditions, which can help them stay ahead of the competition.
+- Big data helps companies keep track of their online presence—especially feedback, both good and bad, from customers. This gives them the information they need to improve and protect their brand.
+
+#### V words for big data
+- **Volume** describes the amount of data.
+- **Variety** describes the different kinds of data. 
+- **Velocity** describes how fast the data can be processed.
+- **Veracity** refers to the quality and reliability of the data.
+
+These are all important considerations related to processing huge, complex data sets. 
+
+---
+
+[Glossary](https://docs.google.com/document/d/1jjYX7LtWJxWC9qbI9pKHpoVqqlD0YuILDpyYENwYGvI/template/preview)
+
+---
+
 
 
