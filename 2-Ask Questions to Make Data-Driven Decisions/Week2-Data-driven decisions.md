@@ -6,7 +6,7 @@ An algorithm is a process or set of rules to be followed for a specific task.
 
 ---
 
-The goal of all data analysts is to use data to draw accurate conclusions and make good recommendations. That all starts with having complete, correct, and relevant data. It is possible to have solid data and still make the wrong choices. It is up to data analysts to interpret the data accurately. When data is interpreted incorrectly, it can lead to huge losses. When data is used strategically, businesses can transform and grow their revenue.
+The goal of all data analysts is to use data to draw accurate conclusions and make good recommendations. That all starts with having complete, correct, and relevant data. It is possible to have solid data and still make the wrong choices. It is up to data analysts to interpret the data accurately. When data is interpreted incorrectly, it can lead to huge losses. When data is used strategically, businesses can transform and grow their revenue. There is a difference between making a decision with incomplete data and making a decision with a small amount of data. Making a decision with incomplete data is dangerous. But sometimes accurate data from a small test can help you make a good decision.
 
 ---
 
