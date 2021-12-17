@@ -26,4 +26,37 @@ Data analysts will generally use both types of data in their work. Usually, qual
 
 ---
 
+Two data presentation tools:
+
+### Reports
+A report is a static collection of data given to stakeholders periodically. <br> <br>
+Pros:
+- Reports are great for giving snapshots of **high level historical data** for an organization.
+- They can be designed and sent out periodically, often on a weekly or monthly basis, as organized and easy to reference information. They're **quick to design and easy to use** as long as you continually maintain them.
+- Since reports use static data or data that doesn't change once it's been recorded, they reflect data that's already been **cleaned and sorted**. <br> 
+
+Cons:
+- Reports need **regular maintenance**.
+- They are **less visually appealing**.
+- Because they aren't automatic or dynamic (**static**), reports don't show live, evolving data. <br> <br>
+
+One way spreadsheet data could be visualized in a report:
+#### Pivot Table
+A data summarization tool that is used in data processing. Pivot tables are used to summarize, sort, re-organize, group, count, total, or average data stored in a database. It allows its users to transform columns into rows and rows into columns. <br> <br>
+
+### Dashboard
+Monitors live, incoming data. <br> <br>
+Pros:
+- **Dynamic, automatic and interactive**: They give your team more access to information being recorded, you can interact through data by playing with filters, and because they're dynamic, they have long-term value.
+- **More stakeholder access** and **Low maintenance**: If stakeholders need to continually access information, a dashboard can be more efficient than having to pull reports over and over. <br>
+
+Cons:
+- **Labor-intensive design**: They take a lot of time to design and can actually be less efficient than reports, if they're not used very often.
+- **Can be confusing**: If the base table breaks at any point, they need a lot of maintenance to get back up and running again.
+- **Potentially uncleaned data**: Dashboards can sometimes overwhelm people with information too. If you aren't used to looking through data on a dashboard, you might get lost in it. <br> 
+
+A dashboard would be useful for monitoring data as it becomes available. You might create a Tableau dashboard with interactive graphs that showcase multiple views of the data.
+
+---
+
 
