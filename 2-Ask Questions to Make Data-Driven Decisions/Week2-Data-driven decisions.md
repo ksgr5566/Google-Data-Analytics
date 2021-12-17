@@ -79,6 +79,8 @@ A metric is a single, quantifiable type of data that can be used for measurement
 
 Different industries use all kinds of different metrics. But there's one thing they all have in common: they're all trying to meet a specific goal by measuring data.
 
+Using key performance indicators to measure revenue and using annual profit targets to set and evaluate goals are examples of using metrics.
+
 ### Metric Goal
 A measurable goal set by a company and evaluated using metrics.
 
@@ -88,6 +90,7 @@ A measurable goal set by a company and evaluated using metrics.
 
 ### Small data
 These kinds of data tend to be made up of datasets concerned with *specific metrics over a short, well defined period of time*. Small data can be useful for making day-to-day decisions, like deciding to drink more water. But it doesn't have a huge impact on bigger frameworks like business operations. <br>
+
 Example: The amount of exercise time it takes for a single person to burn a minimum of 400 calories is a problem that requires small data. It contains a specific metric (400 calories) and a short, defined period of time (amount of exercise time).
 
 ### Big data
