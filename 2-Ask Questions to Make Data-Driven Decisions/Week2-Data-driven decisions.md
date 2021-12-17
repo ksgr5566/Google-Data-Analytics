@@ -87,7 +87,8 @@ A measurable goal set by a company and evaluated using metrics.
 **Mathematical thinking**: It means looking at a problem and logically breaking it down step-by-step, so you can see the relationship of patterns in your data, and use that to analyze your problem. This kind of thinking can also help you figure out the best tools for analysis because it lets us see the different aspects of a problem and choose the best logical approach.
 
 ### Small data
-These kinds of data tend to be made up of datasets concerned with *specific metrics over a short, well defined period of time*. Small data can be useful for making day-to-day decisions, like deciding to drink more water. But it doesn't have a huge impact on bigger frameworks like business operations.
+These kinds of data tend to be made up of datasets concerned with *specific metrics over a short, well defined period of time*. Small data can be useful for making day-to-day decisions, like deciding to drink more water. But it doesn't have a huge impact on bigger frameworks like business operations. <br>
+Example: The amount of exercise time it takes for a single person to burn a minimum of 400 calories is a problem that requires small data. It contains a specific metric (400 calories) and a short, defined period of time (amount of exercise time).
 
 ### Big data
 Big data has *larger, less specific datasets covering a longer period of time*. They usually have to be broken down to be analyzed. Big data is useful for looking at large- scale questions and problems, and they help companies make *big decisions*.
