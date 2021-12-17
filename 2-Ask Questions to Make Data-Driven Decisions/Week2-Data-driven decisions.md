@@ -45,7 +45,7 @@ One way spreadsheet data could be visualized in a report:
 A data summarization tool that is used in data processing. Pivot tables are used to summarize, sort, re-organize, group, count, total, or average data stored in a database. It allows its users to transform columns into rows and rows into columns. <br> <br>
 
 ### Dashboard
-Monitors live, incoming data. <br> <br>
+Monitors live, incoming data. A dashboard is a single point of access for managing a business's information. It allows analysts to pull key information from data in a quick review by visualizing the data in a way that makes findings easy to understand.  <br> <br>
 Pros:
 - **Dynamic, automatic and interactive**: They give your team more access to information being recorded, you can interact through data by playing with filters, and because they're dynamic, they have long-term value.
 - **More stakeholder access** and **Low maintenance**: If stakeholders need to continually access information, a dashboard can be more efficient than having to pull reports over and over. <br>
@@ -56,6 +56,19 @@ Cons:
 - **Potentially uncleaned data**: Dashboards can sometimes overwhelm people with information too. If you aren't used to looking through data on a dashboard, you might get lost in it. <br> 
 
 A dashboard would be useful for monitoring data as it becomes available. You might create a Tableau dashboard with interactive graphs that showcase multiple views of the data.
+
+3 most common types of dashboards:
+- **Strategic**: focuses on long term goals and strategies at the highest level of metrics
+- **Operational**: short-term performance tracking and intermediate goals
+- **Analytical**: consists of the datasets and the mathematics used in these sets. hese dashboards contain the details involved in the usage, analysis, and predictions made by data scientists. 
+
+Dashboards identify metrics: Relevant metrics may help analysts assess company performance.
+
+Dashboards can help companies perform many helpful tasks, such as:
+- Track historical and current performance.
+- Establish both long-term and/or short-term goals.
+- Define key performance indicators or metrics.
+- Identify potential issues or points of inefficiency.
 
 [Designing compelling dashboards](https://d3c33hcgiwev3.cloudfront.net/IfnpXnRlRhi56V50ZVYYow_3a87f3d18e444bdda63014571e0d9ef1_DAC2-Designing-compelling-dashboards.pdf?Expires=1639872000&Signature=jkZQrBDKFAQKg9Cl~uonJ3YgiJYh8QG-y7xKsMSMkaOd-AumFhG~X~PdpihInp-O6Irvn2Q1QtcUQCjTAfCuwOE9tJuhirAroRh3UuWAqliZh7rJgylneeVj1kMvFohDUHLVIxMIeqpH2Jd4sLcvKRxIsIhoZwZYrQScTKBrPLc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
