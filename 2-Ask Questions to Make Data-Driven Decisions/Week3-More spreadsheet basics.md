@@ -111,11 +111,11 @@ You can practice structured thinking and avoid mistakes is by using a scope of w
 ### Scope of work (SOW)
 An agreed- upon outline of the work you're going to perform on a project. A scope of work is project-based and sets the expectations and boundaries of a project. A scope of work keeps everyone on the same page. Using structured thinking, you can define what is being delivered, when, and how you will measure success along the way.
 
-Here's what might be in scope of work:
-- **Deliverables** are items or tasks you will complete before you can finish the project.
-- **Timelines** include due dates for when deliverables, milestones, and/or reports are due.
-- **Milestones** are significant tasks you will confirm along your timeline to help everyone know the project is on track.
-- **Reports** notify everyone as you finalize deliverables and meet milestones.
+There’s no standard format for an SOW. They may differ significantly from one organization to another, or from project to project. However, they all have a few foundational pieces of content in common: 
+- **Deliverables** are items or tasks you will complete before you can finish the project. <br> What work is being done, and what things are being created as a result of this project? When the project is complete, what are you expected to deliver to the stakeholders? Be specific here. Will you collect data for this project? How much, or for how long?
+- **Timelines** include due dates for when deliverables, milestones, and/or reports are due. <br> The timeline is a way of mapping expectations for how long each step of the process should take. The timeline should be specific enough to help all involved decide if a project is on schedule. When will the deliverables be completed? How long do you expect the project will take to complete? If all goes as planned, how long do you expect each component of the project will take? When can we expect to reach each milestone?
+- **Milestones** are significant tasks you will confirm along your timeline to help everyone know the project is on track. <br> This is closely related to your timeline. What are the major milestones for progress in your project? How do you know when a given part of the project is considered complete? 
+- **Reports** notify everyone as you finalize deliverables and meet milestones. <br> Good SOWs also set boundaries for how and when you’ll give status updates to stakeholders. How will you communicate progress with stakeholders and sponsors, and how often? Will progress be reported weekly? Monthly? When milestones are completed? What information will status reports contain?
 
 ---
 
