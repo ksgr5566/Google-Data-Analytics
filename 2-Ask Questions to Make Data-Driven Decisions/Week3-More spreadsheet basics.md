@@ -70,6 +70,8 @@ A cell reference is a single cell or range of cells in a worksheet that can be u
   <ul><li>COUNTIF() is a formula and a function. This means the function runs based on criteria set by the formula. In this case, COUNT is the formula; it will be executed IF the conditions you create are true. For example, you could use =COUNTIF(A1:A16, “7”) to count only the cells that contained the number 7. Combining formulas and functions allows you to do more work with a single command. </li></ul>
 </details>
 
+[**Spreadsheet errors and fixes**](https://d3c33hcgiwev3.cloudfront.net/fDHAQD8OQX6xwEA_DsF-tw_299c2bf89be04d0bae30bf763b606af1_DAC2-Spreadsheet-Errors-and-Fixes.pdf?Expires=1639958400&Signature=khlJhAOS7CarbwgvV-AGUp5XyXkMXYy5ssfw0te3fL7kR68rBLSv-1bafnENkYmL8F2cBpwz6fvGTkfifiI8pkkxlyi58m8PLWZXLpkAYP8zmwUbajS4LWLSJ-1wIzrRIGm6rGsKeBKDGN~QiZeuei2UlXpTt4~A5viTEuJIMzM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
 ---
   
   
