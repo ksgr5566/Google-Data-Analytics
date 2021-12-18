@@ -95,6 +95,29 @@ A function is a preset command that automatically performs a specific process or
 [DAC2 Keyboard functions 1](https://d3c33hcgiwev3.cloudfront.net/UbHnj9LnRlGx54_S5yZRJA_64a50a70b938476c852b172e826e9af1_DAC2-Keyboard-functions-1.pdf?Expires=1639958400&Signature=A2lNbKBH4jhT7PyaLm5SiV73QbYwRaY0s3e7EqwSRSE8hdxQAJKOdLY9zed3f2JMtAExTbPZtaPt2i8xRAqbDakzYJ6OwMp4sfsgE8tcThQ~M84UL~EZd8rqrtoVp1GQXfc66n5Pqo1gY9KPGv0WpX030AEHZHyyCDtBtst-bhE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A), [DAC2 Keyboard functions 2](https://d3c33hcgiwev3.cloudfront.net/9gsOZ_tGTtOLDmf7Rh7T1Q_8a825edae2a94e5e81d880681270acf1_DAC2-Keyboard-functions-2.pdf?Expires=1639958400&Signature=VJUZw6DnuoBIGeqdafuH1OtvsD~g99yDHMWTHDl-rR2PWf9W14kcH9VJ1ktkfeVGkiSFX8TIfWCGHTCyDPtFPXOodtRrATIwzU1~FWunUxkKHZVXwmWdYHDYbNuED10hOXtBSVKAQoYISmWoyZHbM5Jlb0qUnGgHBH7VxUV8mw8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A).
 
 ---
-  
+
+### Problem domain
+The specific area of analysis that encompasses every activity affecting or affected by the problem.
+
+Carefully defining a business problem can ultimately save time, money, and resources. All of this is achieved through structured thinking.
+
+### Structured thinking
+The process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options.
+
+The starting place for structured thinking is the problem domain. Once you know the specific area of analysis, you can set your base and lay out all your requirements and hypotheses before you start investigating.
+
+You can practice structured thinking and avoid mistakes is by using a scope of work.
+
+### Scope of work (SOW)
+An agreed- upon outline of the work you're going to perform on a project. A scope of work is project-based and sets the expectations and boundaries of a project. A scope of work keeps everyone on the same page. Using structured thinking, you can define what is being delivered, when, and how you will measure success along the way.
+
+Scope of work consists of:
+- **Deliverables** are items or tasks you will complete before you can finish the project.
+- **Timelines** include due dates for when deliverables, milestones, and/or reports are due.
+- **Milestones** are significant tasks you will confirm along your timeline to help everyone know the project is on track.
+- **Reports** notify everyone as you finalize deliverables and meet milestones.
+
+---
+
   
   
