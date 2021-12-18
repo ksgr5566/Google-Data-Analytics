@@ -126,7 +126,13 @@ There’s no standard format for an SOW. They may differ significantly from one 
 Usually, projects don’t start until an SOW is approved with its key pieces of content: the deliverables, milestones, timeline, and reports. To collect and synthesize this information, analysts identify and formalize quantifiable project requirements. They use structured thinking to ask clarifying questions, define what to accomplish, and specify project boundaries.
 
 ### Context
-The condition in which something exists or happens. Actions can be appropriate in some context, but inappropriate in others. A data analyst asks who, what, when, where, why, and how in order to put information into context.
+The condition in which something exists or happens. Context can turn raw data into meaningful information. It is very important for data analysts to contextualize their data. This means giving the data perspective by defining it. To do this, you need to identify:
+- **Who**: The person or organization that created, collected, and/or funded the data collection
+- **What**: The things in the world that data could have an impact on
+- **Where**: The origin of the data
+- **When**: The time when the data was created or collected
+- **Why**: The motivation behind the creation or collection
+- **How**: The method used to create or collect it
 
 ---
 
