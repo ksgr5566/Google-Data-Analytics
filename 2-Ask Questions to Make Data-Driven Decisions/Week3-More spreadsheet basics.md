@@ -125,6 +125,9 @@ There’s no standard format for an SOW. They may differ significantly from one 
 
 Usually, projects don’t start until an SOW is approved with its key pieces of content: the deliverables, milestones, timeline, and reports. To collect and synthesize this information, analysts identify and formalize quantifiable project requirements. They use structured thinking to ask clarifying questions, define what to accomplish, and specify project boundaries.
 
+### Context
+The condition in which something exists or happens. Actions can be appropriate in some context, but inappropriate in others. A data analyst asks who, what, when, where, why, and how in order to put information into context.
+
 ---
 
   
