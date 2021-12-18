@@ -134,6 +134,12 @@ The condition in which something exists or happens. Context can turn raw data in
 - **Why**: The motivation behind the creation or collection
 - **How**: The method used to create or collect it
 
+To ensure your data is accurate and fair, make sure you start with an accurate representation of the population in the sample; collect the data in an objective way; and ask questions about the data.
+
+---
+
+[Glossary](https://docs.google.com/document/d/1v1_vAc7R81IK2JL4QTIbkUdHVYXnIvithZ_gC_k--jw/template/preview)
+
 ---
 
   
