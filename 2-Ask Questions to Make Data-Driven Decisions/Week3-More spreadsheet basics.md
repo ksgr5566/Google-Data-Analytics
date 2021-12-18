@@ -59,6 +59,7 @@ A cell reference is a single cell or range of cells in a worksheet that can be u
 
 <details>
   <summary>Data range</summary> <br>
+  The set of cells a data analyst selects to include in a formula is called the data range.
   <ul>
     <li>When you click into your formula, the colored ranges let you see which cells are being used in your spreadsheet. There are different colors for each unique range in your formula.</li>
     <li>In a lot of spreadsheet applications, you can press the F2 (or Enter) key to highlight the range of data in the spreadsheet that is referenced in a formula. Click the cell with the formula, and then press the F2 (or Enter) key to highlight the data in your spreadsheet. </li>
