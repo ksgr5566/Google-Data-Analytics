@@ -117,6 +117,10 @@ There’s no standard format for an SOW. They may differ significantly from one 
 - **Milestones** are significant tasks you will confirm along your timeline to help everyone know the project is on track. <br> This is closely related to your timeline. What are the major milestones for progress in your project? How do you know when a given part of the project is considered complete? 
 - **Reports** notify everyone as you finalize deliverables and meet milestones. <br> Good SOWs also set boundaries for how and when you’ll give status updates to stakeholders. How will you communicate progress with stakeholders and sponsors, and how often? Will progress be reported weekly? Monthly? When milestones are completed? What information will status reports contain?
 
+![image](https://user-images.githubusercontent.com/74421758/146637082-0cc28c96-6c1d-4005-8d66-748e2d766f5c.png)
+
+[Data Analysis Project Scope-of-Work (SOW) Strong Example](https://docs.google.com/document/d/16x-E04Nr48Ww1Nlxwa0PNOXyaytKbVCxrF5yRJy6Y70/template/preview?resourcekey=0-X1a531fuUVbtlNKdIA11dQ)
+
 <br>
 
 Usually, projects don’t start until an SOW is approved with its key pieces of content: the deliverables, milestones, timeline, and reports. To collect and synthesize this information, analysts identify and formalize quantifiable project requirements. They use structured thinking to ask clarifying questions, define what to accomplish, and specify project boundaries.
