@@ -111,7 +111,7 @@ You can practice structured thinking and avoid mistakes is by using a scope of w
 ### Scope of work (SOW)
 An agreed- upon outline of the work you're going to perform on a project. A scope of work is project-based and sets the expectations and boundaries of a project. A scope of work keeps everyone on the same page. Using structured thinking, you can define what is being delivered, when, and how you will measure success along the way.
 
-Scope of work consists of:
+Here's what might be in scope of work:
 - **Deliverables** are items or tasks you will complete before you can finish the project.
 - **Timelines** include due dates for when deliverables, milestones, and/or reports are due.
 - **Milestones** are significant tasks you will confirm along your timeline to help everyone know the project is on track.
