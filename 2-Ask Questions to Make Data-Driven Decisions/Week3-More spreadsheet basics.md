@@ -35,7 +35,7 @@
 A formula is a set of instructions that perform a specific calculation. Formulas are built on operators which are symbols that name that type of operation or calculation to be performed.
 
 #### Cell reference
-A cell reference is a single cell or range of cells in a worksheet that can be used in a formula. Cell references contain the letter of the column and the number of the row where the data is. A range of cells is a collection of two or more cells. A range can include cells from the same row or column, or from different columns and rows collected together. The great thing about using cell references is that they also automatically update when a formula is copied to a new cell.
+A cell reference is a single cell or range of cells in a worksheet that can be used in a formula. Cell references contain the letter of the column and the number of the row where the data is. A range of cells is a collection of two or more cells. A range can include cells from the same row or column, or from different columns and rows collected together. The great thing about using cell references is that they also automatically update when a formula is copied to a new cell. <br>
 
 <details>
   <summary>Auto-filling</summary> <br>
@@ -72,6 +72,27 @@ A cell reference is a single cell or range of cells in a worksheet that can be u
 </details>
 
 [**Spreadsheet errors and fixes**](https://d3c33hcgiwev3.cloudfront.net/fDHAQD8OQX6xwEA_DsF-tw_299c2bf89be04d0bae30bf763b606af1_DAC2-Spreadsheet-Errors-and-Fixes.pdf?Expires=1639958400&Signature=khlJhAOS7CarbwgvV-AGUp5XyXkMXYy5ssfw0te3fL7kR68rBLSv-1bafnENkYmL8F2cBpwz6fvGTkfifiI8pkkxlyi58m8PLWZXLpkAYP8zmwUbajS4LWLSJ-1wIzrRIGm6rGsKeBKDGN~QiZeuei2UlXpTt4~A5viTEuJIMzM_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+---
+
+### Functions
+A function is a preset command that automatically performs a specific process or task using the data.
+
+**Difference between formulas and functions**
+- A formula is a set of instructions used to perform a calculation using the data in a spreadsheet.
+- A function is a preset command that automatically performs a specific process or task using the data in a spreadsheet.
+
+<details>
+  <summary>Relative, absolute, and mixed references</summary> <br>
+  <ul>
+    <li>Relative references (cells referenced without a dollar sign, like A2) will change when you copy and paste the function into a different cell. With relative references, the location of the cell that contains the function determines the cells used by the function. </li>
+    <li>Absolute references (cells fully referenced with a dollar sign, like $A$2) will not change when you copy and paste the function into a different cell. With absolute references, the cells referenced always remain the same.</li>
+    <li>Mixed references (cells partially referenced with a dollar sign, like $A2 or A$2) will change when you copy and paste the function into a different cell. With mixed references, the location of the cell that contains the function determines the cells used by the function, but only the row or column is relative (not both).   </li>
+    <li>In spreadsheets, you can press the F4 key to toggle between relative, absolute, and mixed references in a function. Click the cell containing the function, highlight the referenced cells in the formula bar, and then press F4 to toggle between and select relative, absolute, or mixed referencing.  </li>
+  </ul>
+</details>
+
+[DAC2 Keyboard functions 1](https://d3c33hcgiwev3.cloudfront.net/UbHnj9LnRlGx54_S5yZRJA_64a50a70b938476c852b172e826e9af1_DAC2-Keyboard-functions-1.pdf?Expires=1639958400&Signature=A2lNbKBH4jhT7PyaLm5SiV73QbYwRaY0s3e7EqwSRSE8hdxQAJKOdLY9zed3f2JMtAExTbPZtaPt2i8xRAqbDakzYJ6OwMp4sfsgE8tcThQ~M84UL~EZd8rqrtoVp1GQXfc66n5Pqo1gY9KPGv0WpX030AEHZHyyCDtBtst-bhE_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A), [DAC2 Keyboard functions 2](https://d3c33hcgiwev3.cloudfront.net/9gsOZ_tGTtOLDmf7Rh7T1Q_8a825edae2a94e5e81d880681270acf1_DAC2-Keyboard-functions-2.pdf?Expires=1639958400&Signature=VJUZw6DnuoBIGeqdafuH1OtvsD~g99yDHMWTHDl-rR2PWf9W14kcH9VJ1ktkfeVGkiSFX8TIfWCGHTCyDPtFPXOodtRrATIwzU1~FWunUxkKHZVXwmWdYHDYbNuED10hOXtBSVKAQoYISmWoyZHbM5Jlb0qUnGgHBH7VxUV8mw8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A).
 
 ---
   
