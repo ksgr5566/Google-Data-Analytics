@@ -10,18 +10,18 @@ You could be working on multiple projects with lots of different people but no m
 
 ---
 
-Before you communicate, think about
-1. Who your audience is 
-2. What they already know 
-3. What they need to know 
-4. How you can communicate that effectively to them
+- Before you communicate, think about
+  1. Who your audience is 
+  2. What they already know 
+  3. What they need to know 
+  4. How you can communicate that effectively to them
 
-You'll want your emails to be just as professional as your in-person communications.
+  You'll want your emails to be just as professional as your in-person communications.
 
-<br>
+- It's important to set realistic expectations at every stage of the project. Setting expectations for a realistic timeline might involve sharing a high-level schedule with stakeholders, creating a schedule, and communicating clearly with team members.
 
-It's important to set realistic expectations at every stage of the project. Setting expectations for a realistic timeline might involve sharing a high-level schedule with stakeholders, creating a schedule, and communicating clearly with team members.
+- In the data world, speed can sometimes be the enemy of accuracy, especially when collaboration is required.
 
-A data analyst reframes a question. Then, they outline the problem, challenges, potential solutions, and timeframe in order to put data into context, balance speed with accuracy, and keep stakeholders informed.
+- A data analyst reframes a question. Then, they outline the problem, challenges, potential solutions, and timeframe in order to put data into context, balance speed with accuracy, and keep stakeholders informed.
 
 ---
