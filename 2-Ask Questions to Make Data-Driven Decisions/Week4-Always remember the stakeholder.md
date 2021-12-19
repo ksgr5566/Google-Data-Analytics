@@ -10,7 +10,7 @@ You could be working on multiple projects with lots of different people but no m
 
 ---
 
-- Before you communicate, think about
+- There are four key questions data analysts ask themselves to communicate clearly with stakeholders and team members
   1. Who your audience is 
   2. What they already know 
   3. What they need to know 
