@@ -68,3 +68,7 @@ As the leader of the meeting, it's your job to guide the data discussion. With e
 To shift a situation from problematic to productive, data analysts can reframe a problem and start a constructive conversation. This will give everyone the chance to share their viewpoints in a productive manner which leads to a more successful project.
 
 ---
+
+[Glossary](https://docs.google.com/document/d/1oZFmNXd3aXtTrfKULLEtCaRKlKEAMscFfqU2syf1bsw/template/preview)
+
+---
