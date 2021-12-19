@@ -29,3 +29,7 @@ You could be working on multiple projects with lots of different people but no m
 - Asking questions including, “Does my analysis answer the original question?” and “Are there other angles I haven’t considered?” enable data analysts to consider the best ways to share data with others, help their team make informed decisions, and use data to get to a solid conclusion.
 
 ---
+
+- When leading a meeting, testing out technology, taking notes and preparing supporting materials will help you ensure all participants have a positive experience.
+
+---
