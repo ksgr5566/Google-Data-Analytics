@@ -18,4 +18,8 @@ Before you communicate, think about
 
 You'll want your emails to be just as professional as your in-person communications.
 
+<br>
+
+It's important to set realistic expectations at every stage of the project. Setting expectations for a realistic timeline might involve sharing a high-level schedule with stakeholders, creating a schedule, and communicating clearly with team members.
+
 ---
