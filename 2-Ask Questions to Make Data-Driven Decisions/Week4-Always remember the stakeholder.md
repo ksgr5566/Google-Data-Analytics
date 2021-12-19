@@ -22,6 +22,10 @@ You could be working on multiple projects with lots of different people but no m
 
 - In the data world, speed can sometimes be the enemy of accuracy, especially when collaboration is required.
 
-- A data analyst reframes a question. Then, they outline the problem, challenges, potential solutions, and timeframe in order to put data into context, balance speed with accuracy, and keep stakeholders informed.
+- A data analyst reframes a question. Then, they outline the problem, challenges, potential solutions, and timeframe in order to put data into context, balance speed with accuracy, and keep stakeholders informed. (To ensure their work answers the right questions and delivers useful results, the data analyst should set clear expectations, outline the problem, and reframe the question)
+
+- Focusing on stakeholder expectations enables data analysts to understand project goals, improve communication, and build trust.
+
+- Asking questions including, “Does my analysis answer the original question?” and “Are there other angles I haven’t considered?” enable data analysts to consider the best ways to share data with others, help their team make informed decisions, and use data to get to a solid conclusion.
 
 ---
