@@ -9,3 +9,13 @@ You could be working on multiple projects with lots of different people but no m
 3. Where can you go for help?
 
 ---
+
+Before you communicate, think about
+1. Who your audience is 
+2. What they already know 
+3. What they need to know 
+4. How you can communicate that effectively to them
+
+You'll want your emails to be just as professional as your in-person communications.
+
+---
