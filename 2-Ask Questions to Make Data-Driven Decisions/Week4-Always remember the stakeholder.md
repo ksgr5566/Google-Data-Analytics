@@ -39,7 +39,7 @@ You could be working on multiple projects with lots of different people but no m
 - Organize the data to be presented. You might need to turn raw data into accessible formats or create data visualizations. 
 - Prepare and distribute an agenda. We will go over this next.
 
-Crafting a compelling agenda
+**Crafting a compelling agenda**
 
 A solid meeting agenda sets your meeting up for success. Here are the basic parts your agenda should include: 
 - Meeting start and end time
