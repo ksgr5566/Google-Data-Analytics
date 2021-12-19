@@ -22,4 +22,6 @@ You'll want your emails to be just as professional as your in-person communicati
 
 It's important to set realistic expectations at every stage of the project. Setting expectations for a realistic timeline might involve sharing a high-level schedule with stakeholders, creating a schedule, and communicating clearly with team members.
 
+A data analyst reframes a question. Then, they outline the problem, challenges, potential solutions, and timeframe in order to put data into context, balance speed with accuracy, and keep stakeholders informed.
+
 ---
