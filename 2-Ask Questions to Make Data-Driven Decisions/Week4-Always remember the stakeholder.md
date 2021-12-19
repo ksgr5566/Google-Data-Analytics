@@ -32,4 +32,35 @@ You could be working on multiple projects with lots of different people but no m
 
 - When leading a meeting, testing out technology, taking notes and preparing supporting materials will help you ensure all participants have a positive experience.
 
+**Before the meeting**
+- If you are organizing the meeting, you will probably talk about the data. Before the meeting: 
+- Identify your objective. Establish the purpose, goals, and desired outcomes of the meeting, including any questions or requests that need to be addressed.
+- Acknowledge participants and keep them involved with different points of view and experiences with the data, the project, or the business.
+- Organize the data to be presented. You might need to turn raw data into accessible formats or create data visualizations. 
+- Prepare and distribute an agenda. We will go over this next.
+
+Crafting a compelling agenda
+
+A solid meeting agenda sets your meeting up for success. Here are the basic parts your agenda should include: 
+- Meeting start and end time
+- Meeting location (including information to participate remotely, if that option is available)
+- Objectives 
+- Background material or data the participants should review beforehand
+
+Sharing your agenda ahead of time
+
+**During the meeting**
+
+As the leader of the meeting, it's your job to guide the data discussion. With everyone well informed of the meeting plan and goals, you can follow these steps to avoid any distractions:
+- Make introductions (if necessary) and review key messages
+- Present the data 
+- Discuss observations, interpretations, and implications of the data
+- Take notes during the meeting
+- Determine and summarize next steps for the group 
+
+**After the meeting**
+- Distribute any notes or data 
+- Confirm next steps and timeline for additional actions
+- Ask for feedback (this is an effective way to figure out if you missed anything in your recap)
+
 ---
