@@ -63,7 +63,7 @@ The Five Whys process is used to reveal a root cause of a problem through the an
 <br />
 
 ### Gap analysis (Where are the gaps in our process?)
-Gap analysis lets you examine and evaluate how a process works currently in order to get where you want to be in the future.
+Gap analysis is a method for examining and evaluating how a process works currently in order to get where you want to be in the future. Improving accessibility, increasing efficiency, and reducing carbon emissions are examples of improvements that gap analysis can help accomplish.
 
 The general approach to gap analysis is understanding where you are now compared to where you want to be. Then you can identify the gaps that exist between the current and future state and determine how to bridge them.
 
