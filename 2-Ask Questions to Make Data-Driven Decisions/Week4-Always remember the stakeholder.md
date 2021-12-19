@@ -63,4 +63,8 @@ As the leader of the meeting, it's your job to guide the data discussion. With e
 - Confirm next steps and timeline for additional actions
 - Ask for feedback (this is an effective way to figure out if you missed anything in your recap)
 
+<br>
+
+To shift a situation from problematic to productive, data analysts can reframe a problem and start a constructive conversation. This will give everyone the chance to share their viewpoints in a productive manner which leads to a more successful project.
+
 ---
