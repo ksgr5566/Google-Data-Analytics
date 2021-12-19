@@ -7,7 +7,7 @@ Data analysis is the collection, transformation, and organization of data in ord
 The six steps of the data analysis process are([data analysis life cycle](https://github.com/ksgr5566/Google-Data-Analytics/blob/main/1-Foundations:%20Data%2C%20Data%2C%20Everywhere/Week1-Introducing%20Data%20Analytics.md#data-analysis-life-cycle)): 
 - **Ask** questions and define the problem.
 - **Prepare** data by collecting and storing the information.
-- **Process** data by cleaning and checking the information.
+- **Process** data by cleaning and checking the information. Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset.
 - **Analyze** data to find patterns, relationships, and trends.
 - **Share** data with your audience.
 - **Act** on the data and use the analysis results.
