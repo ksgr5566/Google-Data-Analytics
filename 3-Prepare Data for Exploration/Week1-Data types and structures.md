@@ -1,6 +1,7 @@
-How data is collected: Interviews, Observations(most often used by scientists), Forms, Questionnaires, Surveys, Cookies.
+### How data is collected
+- Interviews, Observations(most often used by scientists), Forms, Questionnaires, Surveys, Cookies.
 
-Data collection considerations: 
+### Data collection considerations 
 - How the data will be collected
   - Decide if you will collect the data using your own resources or receive (and possibly purchase it) from another party.
 - Choose the data sources
