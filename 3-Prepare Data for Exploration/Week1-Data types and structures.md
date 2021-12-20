@@ -22,7 +22,8 @@
 
 ---
 
-### Data formats
+<details>
+  <summary><strong>Data formats</strong></summary> <br>
 
 Primary | Secondary
 ------- | ---------
@@ -53,6 +54,8 @@ Structured | Unstructured
 ---------- | ------------
 Data organized in a certain format, like rows and columns | Data that isn’t organized in any easily identifiable manner
 Examples: <ul><li>Expense reports</li><li>Tax returns</li><li>Store inventory</li></ul> | Examples: <ul><li>Social media posts</li><li>Emails</li><li>Videos</li></ul>
+  
+</details>
 
 ---
 
