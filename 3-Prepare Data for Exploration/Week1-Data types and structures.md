@@ -88,4 +88,33 @@ Data types in spreadsheets: Number, Text or String, and Boolean.
 
 A data table, or tabular data, has a very simple structure. It's arranged in rows and columns. You can call the rows **records** and the columns **fields**. They basically mean the same thing, but records and fields can be used for any kind of data table, while rows and columns are usually reserved for spreadsheets. Sometimes a **field** can also refer to a single piece of data, like the value in a cell.
 
+### Wide data
+Data in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject. Wide data lets you easily identify and quickly compare different columns. Wide data is preferred when:
+- Creating tables and charts with a few variables about each subject.
+- Comparing straightforward line graphs.
+
+### Long data
+Data in which each row is one time point per subject, so each subject will have data in multiple rows. Long data is a great format for storing and organizing data when there's multiple variables for each subject at each time point that we want to observe. Long data is preferred when:
+- Storing a lot of variables about each subject. For example, 60 years worth of interest rates for each bank.
+- Performing advanced statistical analysis or graphing.
+
+### Data transformation
+Data transformation is the process of changing the data’s format, structure, or values.
+<details><summary>Data transformation usually involves:</summary><ul>
+  <li>Adding, copying, or replicating data</li>
+  <li>Deleting fields or records</li>
+  <li>Standardizing the names of variables</li>
+  <li>Renaming, moving, or combining columns in a database</li>
+  <li>Joining one set of data with another</li>
+  <li>Saving a file in a different format. For example, saving a spreadsheet as a comma separated values (CSV) file</li></ul>
+</details>
+
+Goals for data transformation might be:
+- Data **organization**: better organized data is easier to use
+- Data **compatibility**: different applications or systems can then use the same data
+- Data **migration**: data with matching formats can be moved from one system to another
+- Data **merging**: data with the same organization can be merged together
+- Data **enhancement**: data can be displayed with more detailed fields 
+- Data **comparison**: apples-to-apples comparisons of the data can then be made 
+
 ---
