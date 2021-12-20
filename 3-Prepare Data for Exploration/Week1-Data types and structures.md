@@ -80,12 +80,9 @@ Data modeling can help you explore the high-level details of your data and how i
 ---
 
 ### Data type 
-A specific kind of data attribute that tells what kind of value the data is. Data types can be different depending on the query language you're using. For example, SQL allows for different data types depending on which database you're using.
+A specific kind of data attribute that tells what kind of value the data is. <br>Data types can be different depending on the query language you're using. For example, SQL allows for different data types depending on which database you're using.
 
-Data types in spreadsheets:
-- Number
-- Text or String
-- Boolean
+Data types in spreadsheets: Number, Text or String, and Boolean.
 
 <br>
 
