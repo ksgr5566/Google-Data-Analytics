@@ -118,3 +118,7 @@ Goals for data transformation might be:
 - Data **comparison**: apples-to-apples comparisons of the data can then be made 
 
 ---
+
+[Glossary](https://docs.google.com/document/d/1l-VExdbkB1xDFtxlhwEfRYG58u6-zsfzqMvHno75SRk/template/preview)
+
+---
