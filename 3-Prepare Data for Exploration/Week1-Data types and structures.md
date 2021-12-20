@@ -55,6 +55,7 @@ Structured | Unstructured
 Data organized in a certain format, like rows and columns | Data that isn’t organized in any easily identifiable manner
 Examples: <ul><li>Expense reports</li><li>Tax returns</li><li>Store inventory</li></ul> | Examples: <ul><li>Social media posts</li><li>Emails</li><li>Videos</li></ul>
   
+![image](https://user-images.githubusercontent.com/74421758/146742960-1fb2a1e7-ec89-4e3a-84c9-420c9cd6fba8.png)
 </details>
 
 ---
