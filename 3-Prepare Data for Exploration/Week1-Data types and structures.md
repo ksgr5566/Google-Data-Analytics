@@ -55,9 +55,27 @@ Structured | Unstructured
 Data organized in a certain format, like rows and columns | Data that isn’t organized in any easily identifiable manner
 Examples: <ul><li>Expense reports</li><li>Tax returns</li><li>Store inventory</li></ul> | Examples: <ul><li>Social media posts</li><li>Emails</li><li>Videos</li></ul>
   
-![image](https://user-images.githubusercontent.com/74421758/146742960-1fb2a1e7-ec89-4e3a-84c9-420c9cd6fba8.png)
+![image](https://user-images.githubusercontent.com/74421758/146743810-7ab91e2b-9f6b-4954-9305-1db516d8aca3.png)
+
 </details>
 
----
+### Data modeling
 
-  
+<strong>Data modeling</strong> is the process of creating diagrams that visually represent how data is organized and structured. These visual representations are called data models. You can think of data modeling as a blueprint of a house. At any point, there might be electricians, carpenters, and plumbers using that blueprint. Each one of these builders has a different relationship to the blueprint, but they all need it to understand the overall structure of the house. Data models are similar; different users might have different data needs, but the data model gives them an understanding of the structure as a whole. 
+
+Data model is a model that is used for organizing data elements and how they relate to one another. **Data elements** are pieces of information, such as people's names, account numbers, and addresses. Data models help to keep data consistent and provide a map of how data is organized. This makes it easier for analysts and other stakeholders to make sense of their data and use it for business purposes.
+
+<details>
+  <summary>Each level of data modeling has a different level of detail.</summary>
+  <ol><li><strong>Conceptual data modeling</strong> gives a high-level view of the data structure, such as how data interacts across an organization. For example, a conceptual data model may be used to define the business requirements for a new database. A conceptual data model doesn't contain technical details.</li>
+
+<li><strong>Logical data modeling</strong> focuses on the technical details of a database such as relationships, attributes, and entities. For example, a logical data model defines how individual records are uniquely identified in a database. But it doesn't spell out actual names of database tables. That's the job of a physical data model.</li>
+
+<li><strong>Physical data modeling</strong> depicts how a database operates. A physical data model defines all entities and attributes used; for example, it includes table names, column names, and data types for the database.</li></ol>
+</details>
+
+<details><ssummary>Data-modeling techniques</summary>There are a lot of approaches when it comes to developing data models, but two common methods are the <strong>Entity Relationship Diagram (ERD)</strong> and the <strong>Unified Modeling Language (UML)</strong> diagram. ERDs are a visual way to understand the relationship between entities in the data model. UML diagrams are very detailed diagrams that describe the structure of a system by showing the system's entities, attributes, operations, and their relationships. As a junior data analyst, you will need to understand that there are different data modeling techniques, but in practice, you will probably be using your organization’s existing technique.</details> <br>
+
+Data modeling can help you explore the high-level details of your data and how it is related across the organization’s information systems. Data modeling sometimes requires data analysis to understand how the data is put together; that way, you know how to map the data. And finally, data models make it easier for everyone in your organization to understand and collaborate with you on your data.
+
+---
