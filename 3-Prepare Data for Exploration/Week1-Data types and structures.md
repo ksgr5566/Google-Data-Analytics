@@ -31,7 +31,7 @@ Examples: <ul><li>Data from an interview you conducted</li><li>Data from a surve
 
 Internal | External
 -------- | --------
-Data that lives inside a company’s own systems | Data that lives outside of a company or organization
+Data that lives inside a company’s own systems. Internal data is usually more reliable and easier to collect | Data that lives outside of a company or organization. It is structured.
 Examples: <ul><li>Wages of employees across different business units tracked by HR</li><li>Sales data by store location </li><li>Product inventory levels across distribution centers</li></ul> | Examples: <ul><li>National average wages for the various positions throughout your organization</li><li>Credit reports for customers of an auto dealership</li></ul>
 
 Continuous | Discrete
