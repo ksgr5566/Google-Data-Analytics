@@ -78,3 +78,17 @@ Data model is a model that is used for organizing data elements and how they rel
 Data modeling can help you explore the high-level details of your data and how it is related across the organization’s information systems. Data modeling sometimes requires data analysis to understand how the data is put together; that way, you know how to map the data. And finally, data models make it easier for everyone in your organization to understand and collaborate with you on your data.
 
 ---
+
+### Data type 
+A specific kind of data attribute that tells what kind of value the data is. Data types can be different depending on the query language you're using. For example, SQL allows for different data types depending on which database you're using.
+
+Data types in spreadsheets:
+- Number
+- Text or String
+- Boolean
+
+<br>
+
+A data table, or tabular data, has a very simple structure. It's arranged in rows and columns. You can call the rows **records** and the columns **fields**. They basically mean the same thing, but records and fields can be used for any kind of data table, while rows and columns are usually reserved for spreadsheets. Sometimes a **field** can also refer to a single piece of data, like the value in a cell.
+
+---
