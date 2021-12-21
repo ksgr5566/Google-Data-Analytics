@@ -33,7 +33,7 @@ Well- founded standards of right and wrong that dictate how data is collected, s
  </ul></details>
  
  #### Data anonymization
- **Personally identifiable information**, or PII, is information that can be used by itself or with other data to track down a person's identity. Data anonymization is the process of protecting people's private or sensitive data by eliminating that kind of information. Typically, data anonymization involves blanking, hashing, or masking personal information, often by using fixed-length codes to represent data columns, or hiding data with altered values. <br> **De-identification** is a process used to wipe data clean of all personally identifying information.
+ **Personally identifiable information**, or PII, is information that can be used by itself or with other data to track down a person's identity. **Data anonymization** is the process of protecting people's private or sensitive data by eliminating that kind of information. Typically, data anonymization involves blanking, hashing, or masking personal information, often by using fixed-length codes to represent data columns, or hiding data with altered values. Data anonymization applies to all personally identifiable information, including text and images. <br> **De-identification** is a process used to wipe data clean of all personally identifying information.
 
 ---
 
@@ -43,7 +43,7 @@ For data to be considered open, it has to meet all three of these standards:
 - Universal participation: Everyone must be able to use, reuse, and redistribute the data. There shouldn't be any discrimination against fields, persons, or groups.
 
 #### Data interoperability
-Interoperability is key to open data's success. It is the ability of data systems and services to openly connect and share data.
+Interoperability is key to open data's success. It is the ability of data systems and services to openly connect and share data. Different databases using common formats and terminology is an example of interoperability.
 
 One of the biggest benefits of open data is that credible databases can be used more widely. Basically, this means that all of that good data can be leveraged, shared, and combined with other data. But it is important to think about the individuals being represented by the public, open data, too. 
 
