@@ -55,8 +55,12 @@ One of the biggest benefits of open data is that credible databases can be used 
  <li><a href="https://datasetsearch.research.google.com/">Dataset Search</a>: The Dataset Search is a search engine designed specifically for data sets; you can use this to search for specific data sets.</li>
  </ol></details>
  
- ---
+---
+ 
+Kaggle’s datasets and Data Explorer allow you to search for, access, and upload your own datasets. You can use Kaggle to conduct research, complete data projects, and share your accomplishments with other members of the data science community. Online platforms like Kaggle allow you to search for, view, explore, upload, and work with datasets from a variety of sources and perspectives.
+ 
+---
  
  [Glossary](https://docs.google.com/document/d/1TnFI_yFdhFSA2qWg4Ln24hHBjXsShxT1Jws6EwiHJtw/template/preview?resourcekey=0-h5EEEfy05Rg6M-Zbv9Xu9A)
  
- ---
+---
