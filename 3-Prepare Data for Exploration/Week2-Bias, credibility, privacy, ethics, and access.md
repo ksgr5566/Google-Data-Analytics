@@ -56,3 +56,7 @@ One of the biggest benefits of open data is that credible databases can be used 
  </ol></details>
  
  ---
+ 
+ [Glossary](https://docs.google.com/document/d/1TnFI_yFdhFSA2qWg4Ln24hHBjXsShxT1Jws6EwiHJtw/template/preview?resourcekey=0-h5EEEfy05Rg6M-Zbv9Xu9A)
+ 
+ ---
