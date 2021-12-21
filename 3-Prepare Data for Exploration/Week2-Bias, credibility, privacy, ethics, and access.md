@@ -36,3 +36,23 @@ Well- founded standards of right and wrong that dictate how data is collected, s
  **Personally identifiable information**, or PII, is information that can be used by itself or with other data to track down a person's identity. Data anonymization is the process of protecting people's private or sensitive data by eliminating that kind of information. Typically, data anonymization involves blanking, hashing, or masking personal information, often by using fixed-length codes to represent data columns, or hiding data with altered values. <br> **De-identification** is a process used to wipe data clean of all personally identifying information.
 
 ---
+
+For data to be considered open, it has to meet all three of these standards:
+- Availability and access: Open data must be available as a whole, preferably by downloading over the Internet in a convenient and modifiable form.
+- Reuse and redistribution: Open data must be provided under terms that allow reuse and redistribution including the ability to use it with other datasets.
+- Universal participation: Everyone must be able to use, reuse, and redistribute the data. There shouldn't be any discrimination against fields, persons, or groups.
+
+#### Data interoperability
+Interoperability is key to open data's success. It is the ability of data systems and services to openly connect and share data.
+
+One of the biggest benefits of open data is that credible databases can be used more widely. Basically, this means that all of that good data can be leveraged, shared, and combined with other data. But it is important to think about the individuals being represented by the public, open data, too. 
+
+<details><summary>Sites and resources for open data</summary><ol>
+ <li><a href="https://www.data.gov/">U.S. government data site</a>: Data.gov is one of the most comprehensive data sources in the US. This resource gives users the data and tools that they need to do research, and even helps them develop web and mobile applications and design data visualizations.</li>
+ <li><a href="https://www.census.gov/data.html">U.S. Census Bureau</a>: This open data source offers demographic information from federal, state, and local governments, and commercial entities in the U.S. too.</li>
+ <li><a href="https://www.opendatanetwork.com/">Open Data Network</a>: This data source has a really powerful search engine and advanced filters. Here, you can find data on topics like finance, public safety, infrastructure, and housing and development.</li>
+ <li><a href="https://cloud.google.com/solutions/datasets">Google Cloud Public Datasets</a>: There are a selection of public datasets available through the Google Cloud Public Dataset Program that you can find already loaded into BigQuery.</li>
+ <li><a href="https://datasetsearch.research.google.com/">Dataset Search</a>: The Dataset Search is a search engine designed specifically for data sets; you can use this to search for specific data sets.</li>
+ </ol></details>
+ 
+ ---
