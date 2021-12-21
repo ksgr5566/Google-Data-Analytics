@@ -9,4 +9,7 @@ A type of error that systematically skews results in a certain direction.
 - **Confirmation bias**: The tendency to search for, or interpret information in a way that confirms preexisting beliefs.
 
 ---
+ 
+How we can go about finding and identifying good data sources: **Reliable**(Good data sources are reliable), **Original**(To make sure you're dealing with good data, be sure to validate it with the original source), **Comprehensive**(The best data sources contain all critical information needed to answer the question or find the solution), **Current**(The best data sources are current and relevant to the task at hand), **Cited**(Citing makes the information you're providing more credible). Every good solution is found by avoiding bad data. For good data, stick with vetted public data sets, academic papers, financial data and governmental agency data.
 
+---
