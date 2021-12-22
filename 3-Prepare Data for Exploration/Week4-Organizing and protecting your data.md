@@ -16,3 +16,24 @@ File naming recommendations:
 Good file organization includes making it easy to find current, related files that are backed up regularly.
 
 ---
+
+#### Data security
+Protecting data from unauthorized access or corruption by adopting safety measures.
+
+Google sheets and excel have features to:
+- Protect spreadsheets from being edited
+- Control access like password protection and user permissions
+
+When using data security measures, analysts can choose between protecting an entire spreadsheet or protecting certain cells within the spreadsheet. Data security can be used to protect an entire spreadsheet, specific parts of a spreadsheet, or even just a single cell. Data analysts use encryption and sharing permissions to control who can access or edit a spreadsheet.
+
+Some data security options:
+- **Encryption** uses a unique algorithm to alter data and make it unusable by users and applications that don’t know the algorithm. This algorithm is saved as a “key” which can be used to reverse the encryption; so if you have the key, you can still use the data in its original form.  
+- **Tokenization** replaces the data elements you want to protect with randomly generated data referred to as a “token.” The original data is stored in a separate location and mapped to the tokens. To access the complete original data, the user or application needs to have permission to use the tokenized data and the token mapping. This means that even if the tokenized data is hacked, the original data is still safe and secure in a separate location. 
+
+[Kaggle version control](https://www.kaggle.com/product-feedback/139884)
+
+---
+
+[Glossary](https://docs.google.com/document/d/1tlHbLlQffPfsh0aTHYFTH38HAI97KAAEwiRZ2QkRmYQ/template/preview?resourcekey=0-Y2f87SO-gb5T5nQCRbKFhg)
+
+---
