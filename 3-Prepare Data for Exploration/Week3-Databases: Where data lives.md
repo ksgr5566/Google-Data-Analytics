@@ -43,3 +43,11 @@ Metadata specialists organize and maintain company data, ensuring that it's of t
 
 ---
 
+CSV = Comma-separated values. A CSV file saves data in a table format. CSV files use plain text and are delineated by characters, such as a comma. A delineator indicates a boundary or separation between two things. A CSV file makes it easier for data analysts to examine a small part of a large dataset, import data to a new spreadsheet, and distinguish values from one another.
+
+When you work with spreadsheets, there are a few different ways to import data: Other spreadsheets [In Google Sheets, you can use the IMPORTRANGE function], CSV files [In Google Sheets, you can use the IMPORTDATA function in a spreadsheet cell to import data using the URL to a CSV file], HTML tables (in web pages) [In Google Sheets, you can use the IMPORTHTML function]. 
+
+---
+
+
+
