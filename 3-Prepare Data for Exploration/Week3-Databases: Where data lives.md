@@ -49,5 +49,13 @@ When you work with spreadsheets, there are a few different ways to import data: 
 
 ---
 
+#### Sorting data
+Arranging data into a meaningful order to make it easier to understand, analyze, and visualize.
+
+#### Filtering
+Showing only the data that meets a specific criteria while hiding the rest. A filter simplifies a spreadsheet by only showing us the information we need.
+
+---
+
 
 
