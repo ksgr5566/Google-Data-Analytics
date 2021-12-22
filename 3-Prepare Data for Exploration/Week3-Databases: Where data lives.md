@@ -57,7 +57,13 @@ Showing only the data that meets a specific criteria while hiding the rest. A fi
 
 ---
 
-[BigQuery](https://cloud.google.com/bigquery/docs) is a data warehouse on Google Cloud that data analysts can use to query, filter large datasets, aggregate results, and perform complex operations. 
+[BigQuery](https://cloud.google.com/bigquery/docs) is a data warehouse on Google Cloud that data analysts can use to query, filter large datasets, aggregate results, and perform complex operations.
+
+[In-depth guide: SQL best practices](https://d3c33hcgiwev3.cloudfront.net/5vVDkB5qT1y1Q5Aeau9c_Q_6d0e31160e2e43479d172390d19853f1_DAC3-In-depth-guide_-SQL-best-practices.pdf?Expires=1640304000&Signature=hWhnolocCLzZZL5gzIuHsOUiZ51NtiQeUTp4ofWgA7MpGw8lq6EIibR6M4u77zxIjLsbyvNczH9evvxigwfxLuHqub~cnIwX0Plvdk4u7DCcYnm96~AjNry5WoC1xssRpebLoYWgHI~tvnUXMhk5pCzVfrQvY6TMe0dBUlMacjo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+
+---
+
+[Glossary](https://docs.google.com/document/d/1X15VQdgSqDHoNvd_CurxqQX1rRXAy-X0IQr8EVRI_68/template/preview?resourcekey=0-zN5Xla63PMRl40r9Wfc3Ow)
 
 ---
 
