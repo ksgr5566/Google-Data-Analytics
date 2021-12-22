@@ -3,7 +3,9 @@ Best practices when organizing data:
 - Foldering: Organizing your files into folders helps keep project-related files together in one place
 - Archiving older files: Move old projects to a separate location to create an archive and cut down on clutter.
 - Align your naming and storage practices with your team to avoid any confusion.
-- Develop metadata practices
+- Develop metadata practices: Your team might also develop metadata practices like creating a file that outlines project naming conventions for easy reference.
+
+A data analytics team uses metadata to indicate consistent naming conventions for a project.
 
 File naming recommendations:
 - Work out and agree on file naming conventions early on in a project to avoid renaming files again and again.
