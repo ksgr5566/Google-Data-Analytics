@@ -18,7 +18,7 @@ There are two types of keys that connect tables in relational databases.:
 ---
 
 #### Metadata
-Metadata is used in database management to help data analysts interpret the contents of the data within the database. Regardless of whether you are working with a large or small quantity of data, metadata is the mark of a knowledgeable analytics team, helping to communicate about data across the business and making it easier to reuse data. In essence, metadata tells the who, what, when, where, which, how, and why of data. Metadata ensures that you are able to find, use, preserve, and reuse data in the future.
+Metadata is used in database management to help data analysts interpret the contents of the data within the database. Regardless of whether you are working with a large or small quantity of data, metadata is the mark of a knowledgeable analytics team, helping to communicate about data across the business and making it easier to reuse data. In essence, metadata tells the who, what, when, where, which, how, and why of data. Metadata ensures that you are able to find, use, preserve, and reuse data in the future. Data analysts use metadata to combine data, evaluate data, and interpret a database.
 
 3 common types of metadata:
 - **Descriptive**: Metadata that describes a piece of data and can be used to identify it at a later point in time.
