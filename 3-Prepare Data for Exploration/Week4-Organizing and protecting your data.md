@@ -23,6 +23,7 @@ Protecting data from unauthorized access or corruption by adopting safety measur
 Google sheets and excel have features to:
 - Protect spreadsheets from being edited
 - Control access like password protection and user permissions
+- Tabs can also be hidden and unhidden in Sheets and Excel, allowing you to change what data is being viewed. But even hidden tabs can be unhidden by someone else, so be sure you're okay with those tabs still being accessible.
 
 When using data security measures, analysts can choose between protecting an entire spreadsheet or protecting certain cells within the spreadsheet. Data security can be used to protect an entire spreadsheet, specific parts of a spreadsheet, or even just a single cell. Data analysts use encryption and sharing permissions to control who can access or edit a spreadsheet.
 
