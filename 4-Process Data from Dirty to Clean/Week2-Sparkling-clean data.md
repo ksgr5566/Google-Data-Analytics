@@ -18,7 +18,7 @@ Description | Possible Causes | Potential harm to businesses
 
 </details>
 
-A **field** is a single piece of information from a row or column of a spreadsheet. **Field length** is a tool for determining how many characters can be keyed into a field.
+A **field** is a single piece of information from a row or column of a spreadsheet. **Field length** is a tool for determining how many characters can be keyed into a field. Using the field length tool to specify the number of characters in each cell in the column could be part of data validation.
 
 **Data validation** is a tool for checking the accuracy and quality of data before adding or importing it.
 
