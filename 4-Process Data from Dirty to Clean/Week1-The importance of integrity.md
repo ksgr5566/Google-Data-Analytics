@@ -10,6 +10,8 @@ Data integrity can be compromised in lots of different ways. There's a chance da
 Clean data + alignment to business objective = accurate conclusions <br>
 Alignment to business objective + newly discovered variables + constraints = accurate conclusions 
 
+Maintaining data integrity helps ensure a close alignment of data and business objectives because the data is likely to be accurate, complete, consistent, and trustworthy.
+
 ---
 
 Types of insufficient data:
