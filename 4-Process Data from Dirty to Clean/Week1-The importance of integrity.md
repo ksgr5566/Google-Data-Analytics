@@ -7,6 +7,7 @@ Data integrity can be compromised in lots of different ways. There's a chance da
 - **Data manipulation**: The process of changing the data to make it more organized and easier to read. Data manipulation is meant to make the data analysis process more efficient, but an error during the process can compromise the efficiency.
 - **Other threats**: Data can also be compromised through human error, viruses, malware, hacking, and system failures.
 
-Clean data + alignment to business objective = accurate conclusions
+Clean data + alignment to business objective = accurate conclusions <br>
+Alignment to business objective + newly discovered variables + constraints = accurate conclusions 
 
 ---
