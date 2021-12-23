@@ -44,3 +44,17 @@ Pre-cleaning activities help you determine and maintain data integrity and are i
 
 ---
 
+#### Statistical power
+The probability of getting meaningful results from a test. Statistical power can be calculated and reported for a completed experiment to comment on the confidence one might have in the conclusions drawn from the results of the study. It can also be used as a tool to estimate the number of observations or sample size required in order to detect an effect in an experiment.
+
+#### Hypothesis testing
+A way to see if a survey or experiment has meaningful results. 
+
+Statistical power is usually shown as a value out of one. If a test is statistically significant, it means the results of the test are real and not an error caused by random chance. Usually, you need a statistical power of at least 0.8 or 80% to consider your results statistically significant.
+
+#### Confidence level
+The probability that your sample accurately reflects the greater population. Having a 99 percent confidence level is ideal but most industries hope for at least a 90 or 95 percent confidence level.
+
+A sample size calculator tells you how many people you need to interview (or things you need to test) to get results that represent the target population. To calculate sample size using an online calculator, it’s necessary to input the confidence level, margin of error, and population size. [Calculator](https://docs.google.com/spreadsheets/d/1kBTvnpH2qOLJx4XWjUG1v-GF4LPmOhequy_9VRyslJ8/template/preview). The calculated sample size is the minimum number to achieve what you input for confidence level and margin of error. If you are working with a survey, you will also need to think about the estimated response rate to figure out how many surveys you will need to send out.
+
+---
