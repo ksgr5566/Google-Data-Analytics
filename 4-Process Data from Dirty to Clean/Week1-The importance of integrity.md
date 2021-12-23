@@ -60,3 +60,12 @@ The probability that your sample accurately reflects the greater population. Hav
 A sample size calculator tells you how many people you need to interview (or things you need to test) to get results that represent the target population. To calculate sample size using an online calculator, it’s necessary to input the confidence level, margin of error, and population size. [Calculator](https://docs.google.com/spreadsheets/d/1kBTvnpH2qOLJx4XWjUG1v-GF4LPmOhequy_9VRyslJ8/template/preview). The calculated sample size is the minimum number to achieve what you input for confidence level and margin of error. If you are working with a survey, you will also need to think about the estimated response rate to figure out how many surveys you will need to send out.
 
 ---
+
+#### Margin of error
+The maximum amount that the sample results are expected to differ from those of the actual population. The closer to zero the margin of error, the closer your results from your sample would match results from the overall population. The more people you include in your survey, the more likely your sample is representative of the entire population. Decreasing the confidence level would also have the same effect, but that would also make it less likely that your survey is accurate. To calculate margin of error, you need three things: population size, sample size, and confidence level. [Calculator](https://docs.google.com/spreadsheets/d/1gdhfyA3_vMnQ1cDaGSCshXd5ezLtVPfLhxc9STGq6B8/template/preview).
+
+---
+
+[Glossary](https://docs.google.com/document/d/1Ij-diqvlxXx7_GEA1pCovuars8d67iOWSFccrp3Vgv4/template/preview?resourcekey=0-ckHhfy9jV7IWpzJ7k5h20A)
+
+---
