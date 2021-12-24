@@ -53,3 +53,13 @@ Refer to these "top ten" lists for data cleaning in Microsoft Excel and Google S
 Cleaning is a fundamental step in data science as it greatly increases the integrity of the data. Good data science results rely heavily on the reliability of the data. Data analysts clean data to make it more accurate and reliable. This is important for making sure that the projects you will work on as a data analyst are completed properly.
 
 ---
+
+- **Conditional formatting** is a spreadsheet tool that changes how cells appear when values meet specific conditions.
+- **Remove duplicates** is a tool that automatically searches for and eliminates duplicate entries from a spreadsheet.
+- In data analytics, a **text string** is a group of characters within a cell, most often composed of letters. An important characteristic of a text string is its length, which is the number of characters in it. A **substring** is a smaller subset of a text string.
+- **Split** is a tool that divides a text string around the specified character and puts each fragment into a new and separate cell.
+- **CONCATENATE** is a function that joins multiple text strings into a single string.
+
+---
+
+
