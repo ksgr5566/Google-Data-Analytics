@@ -78,6 +78,22 @@ Different methods that data analysts use to look at data differently and how tha
 - **VLOOKUP** stands for vertical lookup. It's a function that searches for a certain value in a column to return a corresponding piece of information. `=VLOOKUP(data to look up, 'where to look up' !Range, column, false)`
 - When you plot data, you put it in a graph chart, table, or other visual to help you quickly find what it looks like. Plotting is very useful when trying to identify any skewed data or outliers.
 
+<br>
+
+#### Data mapping
+Data mapping is the process of matching fields from one data source to another. Different systems store data in different ways. Data mapping helps us note these kinds of differences so we know when data is moved and combined it will be compatible.
+
+1. The first step to data mapping is identifying what data needs to be moved. This includes the tables and the fields within them. We also need to define the desired format for the data once it reaches its destination.
+2. Next comes mapping the data. Depending on the schema and number of primary and foreign keys in a data source, data mapping can be simple or very complex. A **schema** is a way of describing how something is organized. For more challenging projects there's all kinds of data mapping software programs you can use. These data mapping tools will analyze field by field how to move data from one place to another then they automatically clean, match, inspect, and validate the data. They also create consistent naming conventions, ensuring compatibility when the data is transferred from one source to another. When selecting a software program to map your data, you want to be sure that it supports the file types you're working with, such as Excel, SQL, Tableau, and others.
+3. The next step is to transform the data into a consistent format.
+4. Now that everything's compatible, it's time to transfer the data to it's destination. There's a lot of different ways to move data from one place to another, including querying, import wizards, and even simple drag and drop.
+5. We would still want to make sure everything was transferred properly. We'll go into the testing phase of data mapping. For this, you inspect a sample piece of data to confirm that it's clean and properly formatted. It's also a smart practice to do spot checks on things such as the number of nulls. For the test, you can use a lot of the data cleaning tools such as data validation, conditional formatting, COUNTIF, sorting, and filtering.
+6. Once you've determined that the data is clean and compatible, you can start using it for analysis.
+
+---
+
+[Glossary](https://docs.google.com/document/d/1JC24x3TypcFdueCPEd5UAnKIzL9sM8UpOKaMHdibiq4/template/preview)
+
 ---
 
 
