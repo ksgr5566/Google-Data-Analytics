@@ -23,3 +23,14 @@ A **field** is a single piece of information from a row or column of a spreadshe
 **Data validation** is a tool for checking the accuracy and quality of data before adding or importing it.
 
 ---
+
+#### Data merging
+The process of combining two or more datasets into a single dataset. This presents a unique challenge because when two totally different datasets are combined, the information is almost guaranteed to be inconsistent and misaligned. In data analytics, **compatibility** describes how well two or more datasets are able to work together. 
+
+Key questions to think about to avoid redundancy and to confirm that the datasets are compatible:
+- Do I have all the data I need?
+- Does the data I need exist within these datasets?
+- Do the datasets need to be cleaned, or are they ready for me to use?
+- Are the datasets cleaned to the same standard?
+
+---
