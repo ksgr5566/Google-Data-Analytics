@@ -50,7 +50,7 @@ Refer to these "top ten" lists for data cleaning in Microsoft Excel and Google S
 - [Top ten ways to clean your data](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19): Review an orderly guide to data cleaning in Microsoft Excel.
 - [10 Google Workspace tips to clean up data](https://support.google.com/a/users/answer/9604139?hl=en#zippy=): Learn best practices for data cleaning in Google Sheets.
 
-Cleaning is a fundamental step in data science as it greatly increases the integrity of the data. Good data science results rely heavily on the reliability of the data. Data analysts clean data to make it more accurate and reliable. This is important for making sure that the projects you will work on as a data analyst are completed properly.
+Cleaning is a fundamental step in data science as it greatly increases the integrity of the data. If data analysis is based on bad or “dirty” data, it may be biased, erroneous, and uninformed. Good data science results rely heavily on the reliability of the data. Data analysts clean data to make it more accurate and reliable. This is important for making sure that the projects you will work on as a data analyst are completed properly.
 
 ---
 
