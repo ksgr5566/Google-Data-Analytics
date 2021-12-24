@@ -56,9 +56,18 @@ Cleaning is a fundamental step in data science as it greatly increases the integ
 
 - **Conditional formatting** is a spreadsheet tool that changes how cells appear when values meet specific conditions.
 - **Remove duplicates** is a tool that automatically searches for and eliminates duplicate entries from a spreadsheet.
-- In data analytics, a **text string** is a group of characters within a cell, most often composed of letters. An important characteristic of a text string is its length, which is the number of characters in it. A **substring** is a smaller subset of a text string.
+- In data analytics, a **text string** is a group of characters within a cell, commonly composed of letters, numbers or both. An important characteristic of a text string is its length, which is the number of characters in it. A **substring** is a smaller subset of a text string.
 - **Split** is a tool that divides a text string around the specified character and puts each fragment into a new and separate cell.
-- **CONCATENATE** is a function that joins multiple text strings into a single string.
+
+<br>
+
+- **COUNTIF** is a function that returns the number of cells that match a specified value. `=COUNTIF(range, "value")` 
+- **LEN** is a function that tells you the length of the text string by counting the number of characters it contains. `=LEN(range)`
+- **LEFT** is a function that gives you a set number of characters from the left side of a text string. `=LEFT(range, number of characters)`
+- **RIGHT** is a function that gives you a set number of characters from the right side of a text string. `=RIGHT(range, number of characters)`
+- **MID** is a function that gives you a segment from the middle of a text string. `=MID(range, reference starting point, number of middle characters)` 
+- **CONCATENATE** is a function that joins multiple text strings into a single string. `=CONCATENATE(item 1, item 2)`
+- **TRIM** is a function that removes leading, trailing, and repeated spaces in data. `=TRIM(range)`
 
 ---
 
