@@ -69,6 +69,15 @@ Cleaning is a fundamental step in data science as it greatly increases the integ
 - **CONCATENATE** is a function that joins multiple text strings into a single string. `=CONCATENATE(item 1, item 2)`
 - **TRIM** is a function that removes leading, trailing, and repeated spaces in data. `=TRIM(range)`
 
+<br>
+
+Different methods that data analysts use to look at data differently and how that leads to more efficient and effective data cleaning: Some of these methods include sorting and filtering, pivot tables, a function called VLOOKUP, and plotting to find outliers.
+
+- For data cleaning, you can use sorting to put things in alphabetical or numerical order, so you can easily find a piece of data. Sorting can also bring duplicate entries closer together for faster identification. Filters, on the other hand, are very useful in data cleaning when you want to find a particular piece of information.
+- **Pivot tables** sort, reorganize, group, count, total or average data stored in the database. In data cleaning, pivot tables are used to give you a quick, clutter- free view of your data. You can choose to look at the specific parts of the data set that you need to get a visual in the form of a pivot table.
+- **VLOOKUP** stands for vertical lookup. It's a function that searches for a certain value in a column to return a corresponding piece of information. `=VLOOKUP(data to look up, 'where to look up' !Range, column, false)`
+- When you plot data, you put it in a graph chart, table, or other visual to help you quickly find what it looks like. Plotting is very useful when trying to identify any skewed data or outliers.
+
 ---
 
 
