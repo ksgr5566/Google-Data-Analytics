@@ -35,3 +35,7 @@ Structured Query Language, or SQL, is a language used to talk to databases. Lear
 - `COALESCE(column to check first, column to check second if the first column is null)` can be used to return non-null values in a list. Null values are missing values.
 
 ---
+
+[Glossary](https://docs.google.com/document/d/11qyveOPiz27RWNKfQa2xrJ2QwCHwNMHN_Z8_sBr0GNk/template/preview)
+
+---
