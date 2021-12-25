@@ -4,7 +4,7 @@ Verification is a process to confirm that a data cleaning effort was well- execu
 Reporting is a great opportunity to show stakeholders that you're accountable, build trust with your team, and make sure you're all on the same page of important project details.  Different strategies for reporting include creating **data- cleaning reports**, **documenting your cleaning process**, and using **changelog**.
 
 #### Changelog
-A changelog is a file containing a chronologically ordered list of modifications made to a project. It's usually organized by version and includes the date followed by a list of added, improved, and removed features. Changelogs are very useful for keeping track of how a dataset evolved over the course of a project. They're also another great way to communicate and report on data to others. 
+A changelog is a file containing a chronologically ordered list of modifications made to a project. It's usually organized by version and includes the date followed by a list of added, improved, and removed features. Changelogs are very useful for keeping track of how a dataset evolved over the course of a project. They're also another great way to communicate and report on data to others. It can be referred to during the verification period if there are errors or questions.
 
 <br />
 
