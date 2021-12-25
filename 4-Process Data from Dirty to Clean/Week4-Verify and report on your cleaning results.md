@@ -22,7 +22,7 @@ A changelog is a file containing a chronologically ordered list of modifications
 ---
 
 #### Documentation
-The process of tracking changes, additions, deletions and errors involved in your data cleaning effort. Changelogs are good example of this, since it's staged chronologically, it provides a real-time account of every modification.
+The process of tracking changes, additions, deletions and errors involved in your data cleaning effort. Changelogs are good example of this, since it's staged chronologically, it provides a real-time account of every modification. Documenting data-cleaning makes it possible to be transparent about your process, keep team members on the same page, and demonstrate to project stakeholders that you are accountable.
 
 Having a record of how a data set evolved does three very important things:
 - Lets us recover data-cleaning errors (recalling the errors that were cleaned).
