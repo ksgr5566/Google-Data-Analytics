@@ -21,6 +21,7 @@ Structured Query Language, or SQL, is a language used to talk to databases. Lear
   - `TRIM(column)` function is really useful if you find entries with extra spaces and need to eliminate those extra spaces for consistency.
 
 <br>
+
 - `MIN(column)` and `MAX(column)` returns the minimum and maximum numerical values respectively in the specified column.
 - `COUNT(*)` returns the number of rows.
 
