@@ -15,7 +15,7 @@ Structured Query Language, or SQL, is a language used to talk to databases. Lear
 <br>
 
 - Including `DISTINCT` in your `SELECT` statement removes duplicates.
-- In a query, if you use the `LENGTH`, `SUBSTR`, or `TRIM` function in a WHERE clause, you can select data based on a string condition:
+- In a query, if you use the `LENGTH()`, `SUBSTR()`, or `TRIM()` function in a WHERE clause, you can select data based on a string condition. `SUBSTR()` and `TRIM()` functions can be used to clean string variables. `LENGTH()` can be used in the general cleaning process to check if the data is as expected, but it does not actually clean strings.
   - If we already know the length our string variables are supposed to be, we can use `LENGTH(column)` to double-check that our string variables are consistent. For some databases, this query is written as `LEN(column)`, but it does the same thing.
   - `SUBSTR(column, starting position, number of letters including starting position)` is the substring function. 
   - `TRIM(column)` function is really useful if you find entries with extra spaces and need to eliminate those extra spaces for consistency.
