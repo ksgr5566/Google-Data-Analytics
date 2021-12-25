@@ -26,3 +26,8 @@ Structured Query Language, or SQL, is a language used to talk to databases. Lear
 - `COUNT(*)` returns the number of rows.
 
 ---
+
+- `CAST(column AS data_type)` can be used to convert anything from one data type to another.
+- `ORDER BY` statement allows us to order rows in the specified column in descending or ascending order as specified in the statement.
+
+---
