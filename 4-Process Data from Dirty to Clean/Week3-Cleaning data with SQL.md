@@ -29,5 +29,7 @@ Structured Query Language, or SQL, is a language used to talk to databases. Lear
 
 - `CAST(column AS data_type)` can be used to convert anything from one data type to another.
 - `ORDER BY` statement allows us to order rows in the specified column in descending or ascending order as specified in the statement.
+- `CONCAT(column1, column2)` lets you add strings together to create new text strings that can be used as unique keys.
+- `COALESCE(column to check first, column to check second if the first column is null)` can be used to return non-null values in a list. Null values are missing values.
 
 ---
