@@ -12,6 +12,8 @@ Structured Query Language, or SQL, is a language used to talk to databases. Lear
 - We can also insert new data into a database or update existing data. We can use the `INSERT INTO` query to put that information in. We also want to specify which columns we're adding this data to by typing their names in the parentheses.
 - If we want to create a new table for an updated database, we can use the `CREATE TABLE IF NOT EXISTS` statement. Just running a SQL query doesn't actually create a table for the data we extract. It just stores it in our local memory.
 - If you're creating lots of tables within a database, you'll want to use the `DROP TABLE IF EXISTS` statement to clean up.
+- `DELETE` removes data from a database.
+- `UPDATE` changes existing data in a database.
 <br>
 
 - Including `DISTINCT` in your `SELECT` statement removes duplicates.
