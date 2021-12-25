@@ -12,5 +12,12 @@ Structured Query Language, or SQL, is a language used to talk to databases. Lear
 - We can also insert new data into a database or update existing data. We can use the `INSERT INTO` query to put that information in. We also want to specify which columns we're adding this data to by typing their names in the parentheses.
 - If we want to create a new table for an updated database, we can use the `CREATE TABLE IF NOT EXISTS` statement. Just running a SQL query doesn't actually create a table for the data we extract. It just stores it in our local memory.
 - If you're creating lots of tables within a database, you'll want to use the `DROP TABLE IF EXISTS` statement to clean up.
+<br>
+
+- Including `DISTINCT` in your `SELECT` statement removes duplicates.
+- In a query, if you use the `LENGTH`, `SUBSTR`, or `TRIM` function in a WHERE clause, you can select data based on a string condition:
+  - If we already know the length our string variables are supposed to be, we can use `LENGTH(column)` to double-check that our string variables are consistent. For some databases, this query is written as `LEN(column)`, but it does the same thing.
+  - `SUBSTR(column, starting position, number of letters including starting position)` is the substring function. 
+  - `TRIM(column)` function is really useful if you find entries with extra spaces and need to eliminate those extra spaces for consistency.
 
 ---
